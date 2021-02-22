@@ -1,0 +1,3940 @@
+[
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0xeb4c2781e4eba804ce9a9803c67d0893436bb27d"
+    ],
+    "decimals": 8,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "renBTC",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "MATIC",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x8ab7404063ec4dbcfd4598215992dc3f8ec853d7"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "AKRO",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x0000000000095413afc295d19edeb1ad7b71c952"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "LON",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x77777feddddffc19ff86db637967013e6c6a116c"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "TORN",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0xcc80c051057b774cd75067dc48f8987c4eb97a5e"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "NEC",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x5e74c9036fb86bd7ecdcb084a0673efc32ea31cb"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "sETH",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x68a118ef45063051eac49c7e647ce5ace48a68a5"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "BASED",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x221657776846890989a759ba2973e427dff5c9bb"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "REPv2",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0xdf5e0e81dff6faf3a7e52ba697820c5e32d806a8"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "yCRV",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x6c6ee5e31d828de241282b9606c8e98ea48526e2"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "HOLO",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x106538cc16f938776c7c180186975bca23875287"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "BASv2",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x4688a8b1f292fdab17e9a90c8bc379dc1dbd8713"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "COVER",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0xd26114cd6EE289AccF82350c8d8487fedB8A0C07"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "OMG",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x3a880652f47bfaa771908c07dd8673a787daed3a"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "DDX",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x8a9c67fee641579deba04928c4bc45f66e26343a"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "JRT",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0xba11d00c5f74255f56a5e366f4f77f5a186d7f55"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "BAND",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0xaaaebe6fe48e54f431b0c390cfaf0b017d09d42d"
+    ],
+    "decimals": 4,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "CEL",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x6b3595068778dd592e39a122f4f5a5cf09c90fe2"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "SUSHI",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x56d811088235f11c8920698a204a5010a788f4b3"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "BZRX",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x607F4C5BB672230e8672085532f7e901544a7375"
+    ],
+    "decimals": 9,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "RLC",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x3155ba85d5f96b2d030a4966af206230e46849cb"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "RUNE",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x38e4adb44ef08f22f5b5b76a8f0c2d0dcbe7dca1"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "CVP",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0xdac17f958d2ee523a2206206994597c13d831ec7"
+    ],
+    "decimals": 6,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "USDT",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0xa0246c9032bc3a600820415ae600c6388619a14d"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "FARM",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x06f65b8cfcb13a9fe37d836fe9708da38ecb29b2"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "FAME",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x0d438f3b5175bebc262bf23753c1e53d03432bde"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "wNXM",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0xe2f2a5c287993345a840db3b0845fbc70f5935a5"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "mUSD",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x408e41876cccdc0f92210600ef50372656052a38"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "REN",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x57ab1ec28d129707052df4df418d58a2d46d5f51"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "sUSD",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x9bfb088c9f311415e3f9b507da73081c52a49d8c"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "TAPE",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0xaba8cac6866b83ae4eec97dd07ed254282f6ad8a"
+    ],
+    "decimals": 24,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "YAMv2",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x75231f58b43240c9718dd58b4967c5114342a86c"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "OKB",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x98cc3bd6af1880fcfda17ac477b2f612980e5e33"
+    ],
+    "decimals": 8,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "ocDAI",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x476c5e26a75bd202a9683ffd34359c0cc15be0ff"
+    ],
+    "decimals": 6,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "SRM",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x8762db106b2c2a0bccb3a80d1ed41273552616e8"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "RSR",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x960b236a07cf122663c4303350609a66a7b288c0"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "ANT",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x793e2602a8396468f3ce6e34c1b6c6fd6d985bad"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "ICK",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0xba100000625a3754423978a60c9317c58a424e3d"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "BAL",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "AAVE",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x056fd409e1d7a124bd7017459dfea2f387b6d5cd"
+    ],
+    "decimals": 2,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "GUSD",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x93ed3fbe21207ec2e8f2d3c3de6e058cb73bc04d"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "PNK",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "ENJ",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x4946fcea7c692606e8908002e55a582af44ac121"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "FOAM",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0xe41d2489571d322189246dafa5ebde1f4699f498"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "ZRX",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x1f573d6fb3f13d689ff844b4ce37794d79a7ff1c"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "BNT",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x0000000000085d4780B73119b644AE5ecd22b376"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "TUSD",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x584bc13c7d411c00c01a62e8019472de68768430"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "HEGIC",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x42d6622dece394b54999fbd73d108123806f6a18"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "SPANK",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0xb753428af26e81097e7fd17f40c88aaa3e04902c"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "SFI",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0xa1d65e8fb6e87b60feccbc582f7f97804b725521"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "DXD",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0xec67005c4e498ec7f55e092bd1d35cbc47c91892"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "MLN",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0xa3bed4e1c75d00fa6f4e5e6922db7261b5e9acd2"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "MTA",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x5dbcf33d8c2e976c6b560249878e6f1491bca25c"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "yUSD",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x8daebade922df735c38c80c7ebd708af50815faa"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "tBTC",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x1337def16f9b486faed0293eb623dc8395dfe46a"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "ARMOR",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x09a3ecafa817268f77be1283176b946c4ff2e608"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "MIR",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0xbc396689893d065f41bc2c6ecbee5e0085233447"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "PERP",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x985dd3d42de1e256d09e1c10f112bccb8015ad41"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "OCEAN",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x6f259637dcd74c767781e37bc6133cd6a68aa161"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "HT",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x4fabb145d64652a948d72533023f6e7a623c7c53"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "BUSD",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0xc00e94cb662c3520282e6f5717214004a7f26888"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "COMP",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599"
+    ],
+    "decimals": 8,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "wBTC",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x23b608675a2b2fb1890d3abbd85c5775c51691d5"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "SOCKS",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x04Fa0d235C4abf4BcF4787aF4CF447DE572eF828"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "UMA",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0xad32a8e6220741182940c5abf610bde99e737b2d"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "DOUGH",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0xbbbbca6a901c926f240b89eacb641d8aec7aeafd"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "LRC",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x0e29e5abbb5fd88e28b2d355774e73bd47de3bcd"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "HAKKA",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x6810e776880c02933d47db1b9fc05908e5386b96"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "GNO",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0xa1d0e215a23d7030842fc67ce582a6afa3ccab83"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "YFII",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0xf8c3527cc04340b208c854e985240c02f7b7793f"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "FRONT",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x0d8775f648430679a709e98d2b0cb6250d2887ef"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "BAT",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0xa1faa113cbe53436df28ff0aee54275c13b40975"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "ALPHA",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x0ae055097c6d159879521c384f1d2123d1f195e6"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "STAKE",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x85eee30c52b0b379b046fb0f85f4f3dc3009afec"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "KEEP",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "YFI",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x4e352cf164e64adcbad318c3a1e222e9eba4ce42"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "MCB",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0xeef9f339514298c6a857efcfc1a762af84438dee"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "HEZ",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x0aacfbec6a24756c20d41914f2caba817c0d8521"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "YAMv3",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x27054b13b1b798b345b591a4d22e6562d47ea75a"
+    ],
+    "decimals": 4,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "AST",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "UNI",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x62359ed7505efc61ff1d56fef82158ccaffa23d7"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "CORE",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x84ca8bc7997272c7cfb4d0cd3d55cd942b3c9419"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "DIA",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x87edffde3e14c7a66c9b9724747a1c5696b742e6"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "SWAG",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0xb1dc9124c395c1e97773ab855d66e879f053a289"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "YAX",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x0954906da0bf32d5479e25f46056d22f08464cab"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "INDEX",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0xf5d669627376ebd411e34b98f19c868c8aba5ada"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "AXS",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "MKR",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0xfa5047c9c78b8877af97bdcb85db743fd7313d4a"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "ROOK",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0xdd974d5c2e2928dea5f71b9825b8b646686bd200"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "KNC",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0xb4efd85c19999d84251304bda99e90b92300bd93"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "RPL",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x3d995510f8d82c2ea341845932b5ddde0bead9a3"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "uGAS-JAN21",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x2af5d2ad76741191d15dfe7bf6ac92d4bd912ca3"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "LEO",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0xd46ba6d942050d489dbd938a2c909a5d5039a161"
+    ],
+    "decimals": 9,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "AMPL",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0xfca59cd816ab1ead66534d82bc21e7515ce441cf"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "RARI",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x1ceb5cb57c4d4e2b2433641b95dd330a33185a44"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "KP3R",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x03ab458634910aad20ef5f1c8ee96f1d6ac54919"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "RAI",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x95a4492f028aa1fd432ea71146b433e7b4446611"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "APY",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x8888801aF4d980682e47f1A9036e589479e835C5"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "MPH",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0xca1207647ff814039530d7d35df0e1dd2e91fa84"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "DHT",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x1f3f9d3068568f8040775be2e8c03c103c61f3af"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "ARCH",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x18aaa7115705e8be94bffebde57af9bfc265b998"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "AUDIO",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0xc944e90c64b2c07662a292be6244bdf05cda44a7"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "GRT",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x00c83aecc790e8a4453e5dd3b0b4b3680501a7a7"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "SKL",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x0b38210ea11411557c13457d4da7dc6ea731b88a"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "API3",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0xD291E7a03283640FDc51b121aC401383A46cC623"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "RGT",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x5a98fcbea516cf06857215779fd812ca3bef1b32"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "LDO",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x853d955acef822db058eb8505911ed77f175b99e"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "FRAX",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0xae7ab96520de3a18e5e111b5eaab095312d7fe84"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "stETH",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x111111111117dc0aa78b770fa6a738034120c302"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "1INCH",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x4b4d2e899658fb59b1d518b68fe836b100ee8958"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "MIS",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x8a9c4dfe8b9d8962b31e4e16f8321c44d48e246e"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "NCT",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x0fe629d1e84e171f8ff0c1ded2cc2221caa48a3f"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "MASK",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x3449fc1cd036255ba1eb19d65ff4ba2b8903a69a"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "BAC",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x73d9e335669462cbdd6aa3adafe9efee86a37fe9"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "DAIQ",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x0316EB71485b0Ab14103307bf65a021042c6d380"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "HBTC",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x514910771af9ca656af840dff83e8264ecf986ca"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "LINK",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x0cEC1A9154Ff802e7934Fc916Ed7Ca50bDE6844e"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "POOL",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x87d73e916d7057945c9bcd8cdd94e42a6f47f776"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "NFTX",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x5f0e628b693018f639d10e4a4f59bd4d8b2b6b44"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "WHITE",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "getEthBalance(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0xeefba1e63905ef1d7acba5a8513c70307c1ce441"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "ETH",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x3472a5a71965499acd81997a54bba8d852c6e53d"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "BADGER",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0xe28b3b32b6c345a34ff64674606124dd5aceca30"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "INJ",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x196f4727526ea7fb1e17b2071b3d8eaa38486988"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "RSV",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x1985365e9f78359a9b6ad760e32412f4a445e862"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "REP",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0xad4f86a25bbc20ffb751f2fac312a0b4d8f88c64"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "ROOM",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0xb8baa0e4287890a5f79863ab62b7f175cecbd433"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "SWRV",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x429881672b9ae42b8eba0e26cd9c73711b891ca5"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "PICKLE",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x5bc25f649fc4e26069ddf4cf4010f9f706c23831"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "DUSD",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
+    ],
+    "decimals": 6,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "USDC",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0xa283aa7cfbb27ef0cfbcb2493dd9f4330e0fd304"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "MM",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "SNX",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0xf551d152c21a8d8280bf30e55de89c5cd1b75d7c"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "ORB",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x6b175474e89094c44da98b954eedeac495271d0f"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "DAI",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0xa47c8bf37f92abed4a126bda807a7b7498661acd"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "UST",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x1776e1f26f98b1a5df9cd347953a26dd3cb46671"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "NMR",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x73968b9a57c6e53d41345fd57a6e6ae27d6cdb2f"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "SDT",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x0ba45a8b5d5575935b8158a88c631e9f9c95a2e5"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "TRB",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0xd533a949740bb3306d119cc777fa900ba034cd52"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "CRV",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x2ba592f78db6436527729929aaf6c908497cb200"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "CREAM",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0xdf574c24545e5ffecb9a659c229253d4111d87e1"
+    ],
+    "decimals": 8,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "HUSD",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x0f5d2fb29fb7d3cfee444a200298f468908cc942"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "MANA",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x80fB784B7eD66730e8b1DBd9820aFD29931aab03"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "LEND",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x9cea2ed9e47059260c97d697f82b8a14efa61ea5"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "PUNK",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x674C6Ad92Fd080e4004b2312b45f796a192D27a0"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "USDN",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x1494ca1f11d487c2bbe4543e90080aeba4ba3c2b"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "DPI",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x58b6a8a3302369daec383334672404ee733ab239"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "LPT",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x36f3fd68e7325a35eb768f1aedaae9ea0689d723"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "ESD",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x888888888889c00c67689029d7856aac1065ec11"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "OPIUM",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x37236cd05b34cc79d3715af2383e96dd7443dcf1"
+    ],
+    "decimals": 0,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "SLP",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x20c36f062a31865bed8a5b1e512d9a1a20aa333a"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "DFD",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x9ceb84f92a0561fa3cc4132ab9c0b76a59787544"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "DOKI",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x79256db1bdb6259315a1a3d7dd237f69cadfd8fc"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "PHOON",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x43dfc4159d86f3a37a5a4b3d4580b888ad7d4ddd"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "DODO",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x798d1be841a82a273720ce31c822c61a67a601c3"
+    ],
+    "decimals": 9,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "DIGG",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x0391D2021f89DC339F60Fff84546EA23E337750f"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "BOND",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x368b3a58b5f49392e5c9e4c998cb0bb966752e51"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "MIC",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x0e2298e3b3390e3b945a5456fbf59ecc3f55da16"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "YAM",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x374cb8c27130e2c9e04f44303f3c8351b9de61c1"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "BAO",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "FXS",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x3f382dbd960e3a9bbceae22651e88158d2791550"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "GHST",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0xa7ed29b253d8b4e3109ce07c80fc570f81b63696"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "BAS",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x89d24a6b4ccb1b6faa2625fe562bdd9a23260359"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "SAI",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0xd5525d397898e5502075ea5e830d8914f6f0affe"
+    ],
+    "decimals": 8,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "MEME",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0xb4bebD34f6DaaFd808f73De0d10235a92Fbb6c3D"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "YETI",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0xbd2f0cd039e0bfcf88901c98c0bfac5ab27566e3"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "DSD",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0xc12d099be31567add4e4e4d0d45691c3f58f5663"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "AUC",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x0000000000004946c0e9f43f4dee607b0ef1fa1c"
+    ],
+    "decimals": 0,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "CHI",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x8e870d67f660d95d5be530380d0ec0bd388289e1"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "PAX",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x3845badade8e6dff049820680d1f14bd3903a5d0"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "SAND",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0xb1f66997a5760428d3a87d68b90bfe0ae64121cc"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "LUA",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x86772b1409b61c639eaac9ba0acfbb6e238e5f83"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "NDX",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x6c3f90f043a72fa612cbac8115ee7e52bde6e490"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "3CRV",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x9355372396e3f6daf13359b7b607a3374cc638e0"
+    ],
+    "decimals": 4,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "WHALE",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x6399c842dd2be3de30bf99bc7d1bbf6fa3650e70"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "PREMIA",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x1aa61c196e76805fcbe394ea00e4ffced24fc469"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "SAFE",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x06AF07097C9Eeb7fD685c692751D5C66dB49c215"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "CHAI",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0xbc16da9df0a22f01a16bc0620a27e7d6d6488550"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "PCT",
+    "type": "spot",
+    "valueIndex": 0
+  },
+  {
+    "balanceFunc": [
+      "balanceOf(address)",
+      [
+        {
+          "0": {
+            "address": "$userAddress"
+          }
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0xc0f9bd5fa5698b6505f643900ffa515ea5df54a9"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "DONUT",
+    "type": "spot",
+    "valueIndex": 0
+  }
+]
