@@ -1,1 +1,22 @@
-{"balanceFunc":["balanceOf(address)",[{"address":"$userAddress"}],["uint256"],"0xf5dce57282a584d2746faf1593d3121fcac444dc"],"decimals":8,"modifiers":[],"name":"cSAI","parent_asset":"SAI","type":"lent","valueIndex":0}
+[
+  {
+    "balance_func": [
+      "balanceOf(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0xf5dce57282a584d2746faf1593d3121fcac444dc"
+    ],
+    "decimals": 8,
+    "modifiers": [],
+    "name": "cSAI",
+    "parent_asset": "SAI",
+    "type": "lent",
+    "value_index": 0
+  }
+]

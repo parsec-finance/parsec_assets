@@ -1,1 +1,22 @@
-{"balanceFunc":["balanceOf(address)",[{"address":"$userAddress"}],["uint256"],"0x98df8d9e56b51e4ea8aa9b57f8a5df7a044234e1"],"decimals":18,"modifiers":[],"name":"Staked MPH","parent_asset":"MPH","type":"staked","valueIndex":0}
+[
+  {
+    "balance_func": [
+      "balanceOf(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x98df8d9e56b51e4ea8aa9b57f8a5df7a044234e1"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "name": "Staked MPH",
+    "parent_asset": "MPH",
+    "type": "staked",
+    "value_index": 0
+  }
+]

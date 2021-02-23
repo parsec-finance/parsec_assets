@@ -1,1 +1,82 @@
-{"balanceFunc":["balanceOf(address)",[{"address":"$userAddress"}],["uint256"],"0xe89a6d0509faf730bd707bf868d9a2a744a363c7"],"decimals":8,"modifiers":[],"name":"crUNI","parent_asset":"UNI","type":"lent","valueIndex":0}
+[
+  {
+    "balance_func": [
+      "balanceOf(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0xb9d7cb55f463405cdfbe4e90a6d2df01c2b92bf1"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "name": "aUNI V2",
+    "parent_asset": "UNI",
+    "type": "lent",
+    "value_index": 0
+  },
+  {
+    "balance_func": [
+      "balanceOf(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0xb124541127a0a657f056d9dd06188c4f1b0e5aab"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "name": "aUNI",
+    "parent_asset": "UNI",
+    "type": "lent",
+    "value_index": 0
+  },
+  {
+    "balance_func": [
+      "balanceOf(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x35a18000230da775cac24873d00ff85bccded550"
+    ],
+    "decimals": 8,
+    "modifiers": [],
+    "name": "cUNI",
+    "parent_asset": "UNI",
+    "type": "lent",
+    "value_index": 0
+  },
+  {
+    "balance_func": [
+      "balanceOf(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0xe89a6d0509faf730bd707bf868d9a2a744a363c7"
+    ],
+    "decimals": 8,
+    "modifiers": [],
+    "name": "crUNI",
+    "parent_asset": "UNI",
+    "type": "lent",
+    "value_index": 0
+  }
+]

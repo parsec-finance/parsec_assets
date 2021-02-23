@@ -1,1 +1,42 @@
-{"balanceFunc":["balanceOf(address)",[{"address":"$userAddress"}],["uint256"],"0xa685a61171bb30d4072b338c80cb7b2c865c873e"],"decimals":18,"modifiers":[],"name":"aMANA V2","parent_asset":"MANA","type":"lent","valueIndex":0}
+[
+  {
+    "balance_func": [
+      "balanceOf(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x6fce4a401b6b80ace52baaefe4421bd188e76f6f"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "name": "aMANA",
+    "parent_asset": "MANA",
+    "type": "lent",
+    "value_index": 0
+  },
+  {
+    "balance_func": [
+      "balanceOf(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0xa685a61171bb30d4072b338c80cb7b2c865c873e"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "name": "aMANA V2",
+    "parent_asset": "MANA",
+    "type": "lent",
+    "value_index": 0
+  }
+]

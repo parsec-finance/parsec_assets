@@ -1,1 +1,82 @@
-{"balanceFunc":["balanceOf(address)",[{"address":"$userAddress"}],["uint256"],"0x3a3a65aab0dd2a17e3f1947ba16138cd37d08c04"],"decimals":18,"modifiers":[],"name":"aETH","parent_asset":"ETH","type":"lent","valueIndex":0}
+[
+  {
+    "balance_func": [
+      "balanceOf(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x030ba81f1c18d280636f32af80b9aad02cf0854e"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "name": "aWETH V2",
+    "parent_asset": "ETH",
+    "type": "lent",
+    "value_index": 0
+  },
+  {
+    "balance_func": [
+      "balanceOf(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x4ddc2d193948926d02f9b1fe9e1daa0718270ed5"
+    ],
+    "decimals": 8,
+    "modifiers": [],
+    "name": "cETH",
+    "parent_asset": "ETH",
+    "type": "lent",
+    "value_index": 0
+  },
+  {
+    "balance_func": [
+      "balanceOf(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0xd06527d5e56a3495252a528c4987003b712860ee"
+    ],
+    "decimals": 8,
+    "modifiers": [],
+    "name": "crETH",
+    "parent_asset": "ETH",
+    "type": "lent",
+    "value_index": 0
+  },
+  {
+    "balance_func": [
+      "balanceOf(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x3a3a65aab0dd2a17e3f1947ba16138cd37d08c04"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "name": "aETH",
+    "parent_asset": "ETH",
+    "type": "lent",
+    "value_index": 0
+  }
+]

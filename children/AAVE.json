@@ -1,1 +1,82 @@
-{"balanceFunc":["balanceOf(address)",[{"address":"$userAddress"}],["uint256"],"0x3225e3c669b39c7c8b3e204a8614bb218c5e31bc"],"decimals":8,"modifiers":[],"name":"crAAVE","parent_asset":"AAVE","type":"lent","valueIndex":0}
+[
+  {
+    "balance_func": [
+      "balanceOf(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x4da27a545c0c5b758a6ba100e3a049001de870f5"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "name": "Staked AAVE",
+    "parent_asset": "AAVE",
+    "type": "staked",
+    "value_index": 0
+  },
+  {
+    "balance_func": [
+      "balanceOf(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0xffc97d72e13e01096502cb8eb52dee56f74dad7b"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "name": "aAAVE V2",
+    "parent_asset": "AAVE",
+    "type": "lent",
+    "value_index": 0
+  },
+  {
+    "balance_func": [
+      "balanceOf(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0xba3d9687cf50fe253cd2e1cfeede1d6787344ed5"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "name": "aAAVE",
+    "parent_asset": "AAVE",
+    "type": "lent",
+    "value_index": 0
+  },
+  {
+    "balance_func": [
+      "balanceOf(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x3225e3c669b39c7c8b3e204a8614bb218c5e31bc"
+    ],
+    "decimals": 8,
+    "modifiers": [],
+    "name": "crAAVE",
+    "parent_asset": "AAVE",
+    "type": "lent",
+    "value_index": 0
+  }
+]

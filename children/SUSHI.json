@@ -1,1 +1,42 @@
-{"balanceFunc":["balanceOf(address)",[{"address":"$userAddress"}],["uint256"],"0x338286c0bc081891a4bda39c7667ae150bf5d206"],"decimals":8,"modifiers":[],"name":"crSUSHI","parent_asset":"SUSHI","type":"lent","valueIndex":0}
+[
+  {
+    "balance_func": [
+      "balanceOf(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x8798249c2e607446efb7ad49ec89dd1865ff4272"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "name": "xSUSHI",
+    "parent_asset": "SUSHI",
+    "type": "staked",
+    "value_index": 0
+  },
+  {
+    "balance_func": [
+      "balanceOf(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x338286c0bc081891a4bda39c7667ae150bf5d206"
+    ],
+    "decimals": 8,
+    "modifiers": [],
+    "name": "crSUSHI",
+    "parent_asset": "SUSHI",
+    "type": "lent",
+    "value_index": 0
+  }
+]

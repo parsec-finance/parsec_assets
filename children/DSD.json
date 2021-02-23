@@ -1,1 +1,42 @@
-{"balanceFunc":["balanceOfStaged(address)",[{"address":"$userAddress"}],["uint256"],"0x6bf977ed1a09214e6209f4ea5f525261f1a2690a"],"decimals":18,"modifiers":[],"name":"Staged","parent_asset":"DSD","type":"staked","valueIndex":0}
+[
+  {
+    "balance_func": [
+      "balanceOfBonded(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x6bf977ed1a09214e6209f4ea5f525261f1a2690a"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "name": "Bonded",
+    "parent_asset": "DSD",
+    "type": "staked",
+    "value_index": 0
+  },
+  {
+    "balance_func": [
+      "balanceOfStaged(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x6bf977ed1a09214e6209f4ea5f525261f1a2690a"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "name": "Staged",
+    "parent_asset": "DSD",
+    "type": "staked",
+    "value_index": 0
+  }
+]

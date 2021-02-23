@@ -1,1 +1,82 @@
-{"balanceFunc":["balanceOf(address)",[{"address":"$userAddress"}],["uint256"],"0x3c6c553a95910f9fc81c98784736bd628636d296"],"decimals":8,"modifiers":[],"name":"crESD","parent_asset":"ESD","type":"lent","valueIndex":0}
+[
+  {
+    "balance_func": [
+      "balanceOf(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0xdb9c2eba87301e6951d6fbe7a458832eaab2137e"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "name": "Harvest Staked",
+    "parent_asset": "ESD",
+    "type": "staked",
+    "value_index": 0
+  },
+  {
+    "balance_func": [
+      "balanceOfStaged(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x443d2f2755db5942601fa062cc248aaa153313d3"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "name": "Staged",
+    "parent_asset": "ESD",
+    "type": "staked",
+    "value_index": 0
+  },
+  {
+    "balance_func": [
+      "balanceOfBonded(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x443d2f2755db5942601fa062cc248aaa153313d3"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "name": "Bonded",
+    "parent_asset": "ESD",
+    "type": "staked",
+    "value_index": 0
+  },
+  {
+    "balance_func": [
+      "balanceOf(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x3c6c553a95910f9fc81c98784736bd628636d296"
+    ],
+    "decimals": 8,
+    "modifiers": [],
+    "name": "crESD",
+    "parent_asset": "ESD",
+    "type": "lent",
+    "value_index": 0
+  }
+]

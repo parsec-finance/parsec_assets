@@ -1,1 +1,42 @@
-{"balanceFunc":["balanceOf(address)",[{"address":"$userAddress"}],["uint256"],"0x39c6b3e42d6a679d7d776778fe880bc9487c2eda"],"decimals":18,"modifiers":[],"name":"aKNC V2","parent_asset":"KNC","type":"lent","valueIndex":0}
+[
+  {
+    "balance_func": [
+      "balanceOf(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x9d91be44c06d373a8a226e1f3b146956083803eb"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "name": "aKNC",
+    "parent_asset": "KNC",
+    "type": "lent",
+    "value_index": 0
+  },
+  {
+    "balance_func": [
+      "balanceOf(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x39c6b3e42d6a679d7d776778fe880bc9487c2eda"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "name": "aKNC V2",
+    "parent_asset": "KNC",
+    "type": "lent",
+    "value_index": 0
+  }
+]

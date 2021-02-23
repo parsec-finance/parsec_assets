@@ -1,1 +1,42 @@
-{"balanceFunc":["balanceOf(address)",[{"address":"$userAddress"}],["uint256"],"0x8b86e0598616a8d4f1fdae8b59e55fb5bc33d0d6"],"decimals":8,"modifiers":[],"name":"crLEND","parent_asset":"LEND","type":"lent","valueIndex":0}
+[
+  {
+    "balance_func": [
+      "balanceOf(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x7d2d3688df45ce7c552e19c27e007673da9204b8"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "name": "aLEND",
+    "parent_asset": "LEND",
+    "type": "lent",
+    "value_index": 0
+  },
+  {
+    "balance_func": [
+      "balanceOf(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x8b86e0598616a8d4f1fdae8b59e55fb5bc33d0d6"
+    ],
+    "decimals": 8,
+    "modifiers": [],
+    "name": "crLEND",
+    "parent_asset": "LEND",
+    "type": "lent",
+    "value_index": 0
+  }
+]

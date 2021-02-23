@@ -1,1 +1,42 @@
-{"balanceFunc":["balanceOf(address)",[{"address":"$userAddress"}],["uint256"],"0x6c5024cd4f8a59110119c56f8933403a539555eb"],"decimals":18,"modifiers":[],"name":"aSUSD V2","parent_asset":"sUSD","type":"lent","valueIndex":0}
+[
+  {
+    "balance_func": [
+      "balanceOf(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x625ae63000f46200499120b906716420bd059240"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "name": "aSUSD",
+    "parent_asset": "sUSD",
+    "type": "lent",
+    "value_index": 0
+  },
+  {
+    "balance_func": [
+      "balanceOf(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x6c5024cd4f8a59110119c56f8933403a539555eb"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "name": "aSUSD V2",
+    "parent_asset": "sUSD",
+    "type": "lent",
+    "value_index": 0
+  }
+]

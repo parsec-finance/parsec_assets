@@ -1,1 +1,82 @@
-{"balanceFunc":["balanceOf(address)",[{"address":"$userAddress"}],["uint256"],"0x797aab1ce7c01eb727ab980762ba88e7133d2157"],"decimals":8,"modifiers":[],"name":"crUSDT","parent_asset":"USDT","type":"lent","valueIndex":0}
+[
+  {
+    "balance_func": [
+      "balanceOf(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x71fc860f7d3a592a4a98740e39db31d25db65ae8"
+    ],
+    "decimals": 6,
+    "modifiers": [],
+    "name": "aUSDT",
+    "parent_asset": "USDT",
+    "type": "lent",
+    "value_index": 0
+  },
+  {
+    "balance_func": [
+      "balanceOf(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x3ed3b47dd13ec9a98b44e6204a523e766b225811"
+    ],
+    "decimals": 6,
+    "modifiers": [],
+    "name": "aUSDT V2",
+    "parent_asset": "USDT",
+    "type": "lent",
+    "value_index": 0
+  },
+  {
+    "balance_func": [
+      "balanceOf(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0xf650c3d88d12db855b8bf7d11be6c55a4e07dcc9"
+    ],
+    "decimals": 8,
+    "modifiers": [],
+    "name": "cUSDT",
+    "parent_asset": "USDT",
+    "type": "lent",
+    "value_index": 0
+  },
+  {
+    "balance_func": [
+      "balanceOf(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x797aab1ce7c01eb727ab980762ba88e7133d2157"
+    ],
+    "decimals": 8,
+    "modifiers": [],
+    "name": "crUSDT",
+    "parent_asset": "USDT",
+    "type": "lent",
+    "value_index": 0
+  }
+]

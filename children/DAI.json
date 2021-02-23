@@ -1,1 +1,82 @@
-{"balanceFunc":["balanceOf(address)",[{"address":"$userAddress"}],["uint256"],"0x92b767185fb3b04f881e3ac8e5b0662a027a1d9f"],"decimals":8,"modifiers":[],"name":"crDAI","parent_asset":"DAI","type":"lent","valueIndex":0}
+[
+  {
+    "balance_func": [
+      "balanceOf(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0xfc1e690f61efd961294b3e1ce3313fbd8aa4f85d"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "name": "aDAI",
+    "parent_asset": "DAI",
+    "type": "lent",
+    "value_index": 0
+  },
+  {
+    "balance_func": [
+      "balanceOf(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x028171bca77440897b824ca71d1c56cac55b68a3"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "name": "aDAI V2",
+    "parent_asset": "DAI",
+    "type": "lent",
+    "value_index": 0
+  },
+  {
+    "balance_func": [
+      "balanceOf(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x5d3a536e4d6dbd6114cc1ead35777bab948e3643"
+    ],
+    "decimals": 8,
+    "modifiers": [],
+    "name": "cDAI",
+    "parent_asset": "DAI",
+    "type": "lent",
+    "value_index": 0
+  },
+  {
+    "balance_func": [
+      "balanceOf(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x92b767185fb3b04f881e3ac8e5b0662a027a1d9f"
+    ],
+    "decimals": 8,
+    "modifiers": [],
+    "name": "crDAI",
+    "parent_asset": "DAI",
+    "type": "lent",
+    "value_index": 0
+  }
+]

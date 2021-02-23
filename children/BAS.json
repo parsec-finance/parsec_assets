@@ -1,1 +1,22 @@
-{"balanceFunc":["balanceOf(address)",[{"address":"$userAddress"}],["uint256"],"0x4b182469337d46e6603ed7e26ba60c56930a342c"],"decimals":18,"modifiers":[],"name":"BasisCash Boardroom Staked","parent_asset":"BAS","type":"staked","valueIndex":0}
+[
+  {
+    "balance_func": [
+      "balanceOf(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x4b182469337d46e6603ed7e26ba60c56930a342c"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "name": "BasisCash Boardroom Staked",
+    "parent_asset": "BAS",
+    "type": "staked",
+    "value_index": 0
+  }
+]

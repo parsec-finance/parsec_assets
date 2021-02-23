@@ -1,1 +1,62 @@
-{"balanceFunc":["balanceOf(address)",[{"address":"$userAddress"}],["uint256"],"0x1ff8cdb51219a8838b52e9cac09b71e591bc998e"],"decimals":8,"modifiers":[],"name":"crBUSD","parent_asset":"BUSD","type":"lent","valueIndex":0}
+[
+  {
+    "balance_func": [
+      "balanceOf(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x6ee0f7bb50a54ab5253da0667b0dc2ee526c30a8"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "name": "aBUSD",
+    "parent_asset": "BUSD",
+    "type": "lent",
+    "value_index": 0
+  },
+  {
+    "balance_func": [
+      "balanceOf(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0xa361718326c15715591c299427c62086f69923d9"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "name": "aBUSD V2",
+    "parent_asset": "BUSD",
+    "type": "lent",
+    "value_index": 0
+  },
+  {
+    "balance_func": [
+      "balanceOf(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x1ff8cdb51219a8838b52e9cac09b71e591bc998e"
+    ],
+    "decimals": 8,
+    "modifiers": [],
+    "name": "crBUSD",
+    "parent_asset": "BUSD",
+    "type": "lent",
+    "value_index": 0
+  }
+]

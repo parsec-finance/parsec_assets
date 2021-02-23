@@ -1,1 +1,62 @@
-{"balanceFunc":["balanceOf(address)",[{"address":"$userAddress"}],["uint256"],"0x5f3b5dfeb7b28cdbd7faba78963ee202a494e2a2"],"decimals":18,"modifiers":[],"name":"veCRV","parent_asset":"CRV","type":"staked","valueIndex":0}
+[
+  {
+    "balance_func": [
+      "balanceOf(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x8dae6cb04688c62d939ed9b68d32bc62e49970b1"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "name": "aCRV V2",
+    "parent_asset": "CRV",
+    "type": "lent",
+    "value_index": 0
+  },
+  {
+    "balance_func": [
+      "balanceOf(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0xc7fd8dcee4697ceef5a2fd4608a7bd6a94c77480"
+    ],
+    "decimals": 8,
+    "modifiers": [],
+    "name": "crCRV",
+    "parent_asset": "CRV",
+    "type": "lent",
+    "value_index": 0
+  },
+  {
+    "balance_func": [
+      "balanceOf(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x5f3b5dfeb7b28cdbd7faba78963ee202a494e2a2"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "name": "veCRV",
+    "parent_asset": "CRV",
+    "type": "staked",
+    "value_index": 0
+  }
+]

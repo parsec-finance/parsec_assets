@@ -1,1 +1,22 @@
-{"balanceFunc":["balanceOf(address)",[{"address":"$userAddress"}],["uint256"],"0x2a537fa9ffaea8c1a41d3c2b68a9cb791529366d"],"decimals":8,"modifiers":[],"name":"crDPI","parent_asset":"DPI","type":"lent","valueIndex":0}
+[
+  {
+    "balance_func": [
+      "balanceOf(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x2a537fa9ffaea8c1a41d3c2b68a9cb791529366d"
+    ],
+    "decimals": 8,
+    "modifiers": [],
+    "name": "crDPI",
+    "parent_asset": "DPI",
+    "type": "lent",
+    "value_index": 0
+  }
+]

@@ -1,1 +1,42 @@
-{"balanceFunc":["balanceOf(address)",[{"address":"$userAddress"}],["uint256"],"0xc713e5e149d5d0715dcd1c156a020976e7e56b88"],"decimals":18,"modifiers":[],"name":"aMKR V2","parent_asset":"MKR","type":"lent","valueIndex":0}
+[
+  {
+    "balance_func": [
+      "balanceOf(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x7deb5e830be29f91e298ba5ff1356bb7f8146998"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "name": "aMKR",
+    "parent_asset": "MKR",
+    "type": "lent",
+    "value_index": 0
+  },
+  {
+    "balance_func": [
+      "balanceOf(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0xc713e5e149d5d0715dcd1c156a020976e7e56b88"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "name": "aMKR V2",
+    "parent_asset": "MKR",
+    "type": "lent",
+    "value_index": 0
+  }
+]

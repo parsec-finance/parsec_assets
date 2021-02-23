@@ -1,1 +1,62 @@
-{"balanceFunc":["balanceOf(address)",[{"address":"$userAddress"}],["uint256"],"0xc11b1268c1a384e55c48c2391d8d480264a3a7f4"],"decimals":8,"modifiers":[],"name":"cWBTC","parent_asset":"wBTC","type":"lent","valueIndex":0}
+[
+  {
+    "balance_func": [
+      "balanceOf(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x9ff58f4ffb29fa2266ab25e75e2a8b3503311656"
+    ],
+    "decimals": 8,
+    "modifiers": [],
+    "name": "aWBTC V2",
+    "parent_asset": "wBTC",
+    "type": "lent",
+    "value_index": 0
+  },
+  {
+    "balance_func": [
+      "balanceOf(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0xfc4b8ed459e00e5400be803a9bb3954234fd50e3"
+    ],
+    "decimals": 8,
+    "modifiers": [],
+    "name": "aWBTC",
+    "parent_asset": "wBTC",
+    "type": "lent",
+    "value_index": 0
+  },
+  {
+    "balance_func": [
+      "balanceOf(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0xc11b1268c1a384e55c48c2391d8d480264a3a7f4"
+    ],
+    "decimals": 8,
+    "modifiers": [],
+    "name": "cWBTC",
+    "parent_asset": "wBTC",
+    "type": "lent",
+    "value_index": 0
+  }
+]
