@@ -1,0 +1,1 @@
+{"balanceFunc":["balanceOf(address)",[{"address":"$userAddress"}],["uint256"],"0xb3319f5d18bc0d84dd1b4825dcde5d5f7266d407"],"decimals":8,"modifiers":[],"name":"cZRX","parent_asset":"ZRX","type":"lent","valueIndex":0}

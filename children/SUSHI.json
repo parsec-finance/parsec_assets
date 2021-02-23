@@ -1,0 +1,1 @@
+{"balanceFunc":["balanceOf(address)",[{"address":"$userAddress"}],["uint256"],"0x338286c0bc081891a4bda39c7667ae150bf5d206"],"decimals":8,"modifiers":[],"name":"crSUSHI","parent_asset":"SUSHI","type":"lent","valueIndex":0}

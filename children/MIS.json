@@ -1,0 +1,1 @@
+{"balanceFunc":["balanceOf(address)",[{"address":"$userAddress"}],["uint256"],"0xb35f89160d1dc47b6eac1986d7821505c327ae09"],"decimals":18,"modifiers":[],"name":"Staked MIS","parent_asset":"MIS","type":"staked","valueIndex":0}

@@ -1,0 +1,1 @@
+{"balanceFunc":["balanceOf(address)",[{"address":"$userAddress"}],["uint256"],"0x9baf8a5236d44ac410c0186fe39178d5aad0bb87"],"decimals":8,"modifiers":[],"name":"crYCRV","parent_asset":"yCRV","type":"lent","valueIndex":0}

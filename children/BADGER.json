@@ -1,0 +1,1 @@
+{"balanceFunc":["balanceOf(address)",[{"address":"$userAddress"}],["uint256"],"0x19d97d8fa813ee2f51ad4b4e04ea08baf4dffc28"],"decimals":18,"modifiers":[],"name":"bBADGER","parent_asset":"BADGER","type":"staked","valueIndex":0}

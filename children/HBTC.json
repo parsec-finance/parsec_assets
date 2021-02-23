@@ -1,0 +1,1 @@
+{"balanceFunc":["balanceOf(address)",[{"address":"$userAddress"}],["uint256"],"0x054b7ed3f45714d3091e82aad64a1588dc4096ed"],"decimals":8,"modifiers":[],"name":"crHBTC","parent_asset":"HBTC","type":"lent","valueIndex":0}

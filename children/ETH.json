@@ -1,0 +1,1 @@
+{"balanceFunc":["balanceOf(address)",[{"address":"$userAddress"}],["uint256"],"0x3a3a65aab0dd2a17e3f1947ba16138cd37d08c04"],"decimals":18,"modifiers":[],"name":"aETH","parent_asset":"ETH","type":"lent","valueIndex":0}

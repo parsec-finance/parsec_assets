@@ -1,0 +1,1 @@
+{"balanceFunc":["balanceOf(address)",[{"address":"$userAddress"}],["uint256"],"0xac6df26a590f08dcc95d5a4705ae8abbc88509ef"],"decimals":18,"modifiers":[],"name":"aENJ V2","parent_asset":"ENJ","type":"lent","valueIndex":0}

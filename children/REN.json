@@ -1,0 +1,1 @@
+{"balanceFunc":["balanceOf(address)",[{"address":"$userAddress"}],["uint256"],"0xcc12abe4ff81c9378d670de1b57f8e0dd228d77a"],"decimals":18,"modifiers":[],"name":"aREN V2","parent_asset":"REN","type":"lent","valueIndex":0}

@@ -1,0 +1,1 @@
+{"balanceFunc":["balanceOf(address)",[{"address":"$userAddress"}],["uint256"],"0x35f6b052c598d933d69a4eec4d04c73a191fe6c2"],"decimals":18,"modifiers":[],"name":"aSNX V2","parent_asset":"SNX","type":"lent","valueIndex":0}

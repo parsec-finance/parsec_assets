@@ -1,0 +1,1 @@
+{"balanceFunc":["balanceOf(address)",[{"address":"$userAddress"}],["uint256"],"0xef58b2d5a1b8d3cde67b8ab054dc5c831e9bc025"],"decimals":8,"modifiers":[],"name":"crSRM","parent_asset":"SRM","type":"lent","valueIndex":0}

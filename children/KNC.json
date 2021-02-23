@@ -1,0 +1,1 @@
+{"balanceFunc":["balanceOf(address)",[{"address":"$userAddress"}],["uint256"],"0x39c6b3e42d6a679d7d776778fe880bc9487c2eda"],"decimals":18,"modifiers":[],"name":"aKNC V2","parent_asset":"KNC","type":"lent","valueIndex":0}

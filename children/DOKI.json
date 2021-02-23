@@ -1,0 +1,1 @@
+{"balanceFunc":["balanceOf(address)",[{"address":"$userAddress"}],["uint256"],"0x0ce0f2b998c0a1b0280dcc95935108781d18e65b"],"decimals":18,"modifiers":[],"name":"Staked DOKI","parent_asset":"DOKI","type":"staked","valueIndex":0}

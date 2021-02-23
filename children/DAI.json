@@ -1,0 +1,1 @@
+{"balanceFunc":["balanceOf(address)",[{"address":"$userAddress"}],["uint256"],"0x92b767185fb3b04f881e3ac8e5b0662a027a1d9f"],"decimals":8,"modifiers":[],"name":"crDAI","parent_asset":"DAI","type":"lent","valueIndex":0}

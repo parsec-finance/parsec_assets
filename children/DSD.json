@@ -1,0 +1,1 @@
+{"balanceFunc":["balanceOfStaged(address)",[{"address":"$userAddress"}],["uint256"],"0x6bf977ed1a09214e6209f4ea5f525261f1a2690a"],"decimals":18,"modifiers":[],"name":"Staged","parent_asset":"DSD","type":"staked","valueIndex":0}

@@ -1,0 +1,1 @@
+{"balanceFunc":["balanceOf(address)",[{"address":"$userAddress"}],["uint256"],"0x101cc05f4a51c0319f570d5e146a8c625198e636"],"decimals":18,"modifiers":[],"name":"aTUSD V2","parent_asset":"TUSD","type":"lent","valueIndex":0}

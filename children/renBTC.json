@@ -1,0 +1,1 @@
+{"balanceFunc":["balanceOf(address)",[{"address":"$userAddress"}],["uint256"],"0x17107f40d70f4470d20cb3f138a052cae8ebd4be"],"decimals":8,"modifiers":[],"name":"crRENBTC","parent_asset":"renBTC","type":"lent","valueIndex":0}
