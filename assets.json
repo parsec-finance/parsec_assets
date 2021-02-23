@@ -2041,7 +2041,7 @@
   },
   {
     "balance_func": [
-      "balanceOf(address)",
+      "getEthBalance(address)",
       [
         {
           "address": "$userAddress"
@@ -2050,7 +2050,7 @@
       [
         "uint256"
       ],
-      "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"
+      "0xeefba1e63905ef1d7acba5a8513c70307c1ce441"
     ],
     "decimals": 18,
     "modifiers": [],
