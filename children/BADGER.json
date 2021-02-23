@@ -13,7 +13,24 @@
       "0xa9429271a28f8543efffa136994c0839e7d7bf77"
     ],
     "decimals": 18,
-    "modifiers": [],
+    "modifiers": [
+      {
+        "action": "multiply",
+        "type": "func",
+        "func": [
+          "getPricePerFullShare()",
+          [],
+          ["uint256"],
+          "0x19d97d8fa813ee2f51ad4b4e04ea08baf4dffc28"
+        ],
+        "value_index": 0
+      },
+      {
+        "action": "divide",
+        "type": "constant",
+        "constant": "10^18"
+      }
+    ],
     "name": "Staked bBADGER",
     "parent_asset": "BADGER",
     "type": "staked",
