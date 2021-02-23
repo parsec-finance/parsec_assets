@@ -53,7 +53,11 @@
       "0xcbae0a83f4f9926997c8339545fb8ee32edc6b76"
     ],
     "decimals": 8,
-    "modifiers": [],
+    "modifiers": [
+      {
+        "type": "Cream Lending"
+      }
+    ],
     "name": "crYFI",
     "parent_asset": "YFI",
     "type": "lent",

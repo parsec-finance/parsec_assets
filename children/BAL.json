@@ -13,7 +13,11 @@
       "0xce4fe9b4b8ff61949dcfeb7e03bc9faca59d2eb3"
     ],
     "decimals": 8,
-    "modifiers": [],
+    "modifiers": [
+      {
+        "type": "Cream Lending"
+      }
+    ],
     "name": "crBAL",
     "parent_asset": "BAL",
     "type": "lent",

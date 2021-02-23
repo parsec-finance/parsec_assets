@@ -13,7 +13,11 @@
       "0x70e36f6bf80a52b3b46b3af8e106cc0ed743e8e4"
     ],
     "decimals": 8,
-    "modifiers": [],
+    "modifiers": [
+      {
+        "type": "Compound Lending"
+      }
+    ],
     "name": "cCOMP",
     "parent_asset": "COMP",
     "type": "lent",
@@ -33,7 +37,11 @@
       "0x19d1666f543d42ef17f66e376944a22aea1a8e46"
     ],
     "decimals": 8,
-    "modifiers": [],
+    "modifiers": [
+      {
+        "type": "Cream Lending"
+      }
+    ],
     "name": "crCOMP",
     "parent_asset": "COMP",
     "type": "lent",

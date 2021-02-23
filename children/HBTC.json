@@ -13,7 +13,11 @@
       "0x054b7ed3f45714d3091e82aad64a1588dc4096ed"
     ],
     "decimals": 8,
-    "modifiers": [],
+    "modifiers": [
+      {
+        "type": "Cream Lending"
+      }
+    ],
     "name": "crHBTC",
     "parent_asset": "HBTC",
     "type": "lent",

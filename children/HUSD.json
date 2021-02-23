@@ -13,7 +13,11 @@
       "0xd692ac3245bb82319a31068d6b8412796ee85d2c"
     ],
     "decimals": 8,
-    "modifiers": [],
+    "modifiers": [
+      {
+        "type": "Cream Lending"
+      }
+    ],
     "name": "crHUSD",
     "parent_asset": "HUSD",
     "type": "lent",

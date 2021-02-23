@@ -13,7 +13,11 @@
       "0xf047d4be569fb770db143a6a90ef203fc1295922"
     ],
     "decimals": 8,
-    "modifiers": [],
+    "modifiers": [
+      {
+        "type": "Cream Lending"
+      }
+    ],
     "name": "crTBTC",
     "parent_asset": "tBTC",
     "type": "lent",

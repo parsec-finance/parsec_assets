@@ -53,7 +53,11 @@
       "0x5d3a536e4d6dbd6114cc1ead35777bab948e3643"
     ],
     "decimals": 8,
-    "modifiers": [],
+    "modifiers": [
+      {
+        "type": "Compound Lending"
+      }
+    ],
     "name": "cDAI",
     "parent_asset": "DAI",
     "type": "lent",
@@ -73,7 +77,11 @@
       "0x92b767185fb3b04f881e3ac8e5b0662a027a1d9f"
     ],
     "decimals": 8,
-    "modifiers": [],
+    "modifiers": [
+      {
+        "type": "Cream Lending"
+      }
+    ],
     "name": "crDAI",
     "parent_asset": "DAI",
     "type": "lent",

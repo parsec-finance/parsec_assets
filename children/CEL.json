@@ -13,7 +13,11 @@
       "0x8b3ff1ed4f36c2c2be675afb13cc3aa5d73685a5"
     ],
     "decimals": 8,
-    "modifiers": [],
+    "modifiers": [
+      {
+        "type": "Cream Lending"
+      }
+    ],
     "name": "crCEL",
     "parent_asset": "CEL",
     "type": "lent",

@@ -13,7 +13,11 @@
       "0x7aaa323d7e398be4128c7042d197a2545f0f1fea"
     ],
     "decimals": 8,
-    "modifiers": [],
+    "modifiers": [
+      {
+        "type": "Cream Lending"
+      }
+    ],
     "name": "crOMG",
     "parent_asset": "OMG",
     "type": "lent",

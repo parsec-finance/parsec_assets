@@ -13,7 +13,11 @@
       "0xf5dce57282a584d2746faf1593d3121fcac444dc"
     ],
     "decimals": 8,
-    "modifiers": [],
+    "modifiers": [
+      {
+        "type": "Compound Lending"
+      }
+    ],
     "name": "cSAI",
     "parent_asset": "SAI",
     "type": "lent",

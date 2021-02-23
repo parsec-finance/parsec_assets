@@ -13,7 +13,11 @@
       "0x3623387773010d9214b10c551d6e7fc375d31f58"
     ],
     "decimals": 8,
-    "modifiers": [],
+    "modifiers": [
+      {
+        "type": "Cream Lending"
+      }
+    ],
     "name": "crMTA",
     "parent_asset": "MTA",
     "type": "lent",

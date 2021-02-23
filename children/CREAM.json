@@ -13,7 +13,11 @@
       "0x892b14321a4fcba80669ae30bd0cd99a7ecf6ac0"
     ],
     "decimals": 8,
-    "modifiers": [],
+    "modifiers": [
+      {
+        "type": "Cream Lending"
+      }
+    ],
     "name": "crCREAM",
     "parent_asset": "CREAM",
     "type": "lent",

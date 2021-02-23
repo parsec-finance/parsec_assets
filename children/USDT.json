@@ -53,7 +53,11 @@
       "0xf650c3d88d12db855b8bf7d11be6c55a4e07dcc9"
     ],
     "decimals": 8,
-    "modifiers": [],
+    "modifiers": [
+      {
+        "type": "Compound Lending"
+      }
+    ],
     "name": "cUSDT",
     "parent_asset": "USDT",
     "type": "lent",
@@ -73,7 +77,11 @@
       "0x797aab1ce7c01eb727ab980762ba88e7133d2157"
     ],
     "decimals": 8,
-    "modifiers": [],
+    "modifiers": [
+      {
+        "type": "Cream Lending"
+      }
+    ],
     "name": "crUSDT",
     "parent_asset": "USDT",
     "type": "lent",

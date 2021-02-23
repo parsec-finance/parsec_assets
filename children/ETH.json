@@ -33,7 +33,11 @@
       "0x4ddc2d193948926d02f9b1fe9e1daa0718270ed5"
     ],
     "decimals": 8,
-    "modifiers": [],
+    "modifiers": [
+      {
+        "type": "Compound Lending"
+      }
+    ],
     "name": "cETH",
     "parent_asset": "ETH",
     "type": "lent",
@@ -53,7 +57,11 @@
       "0xd06527d5e56a3495252a528c4987003b712860ee"
     ],
     "decimals": 8,
-    "modifiers": [],
+    "modifiers": [
+      {
+        "type": "Cream Lending"
+      }
+    ],
     "name": "crETH",
     "parent_asset": "ETH",
     "type": "lent",

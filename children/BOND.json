@@ -13,7 +13,11 @@
       "0xf55bbe0255f7f4e70f63837ff72a577fbddbe924"
     ],
     "decimals": 8,
-    "modifiers": [],
+    "modifiers": [
+      {
+        "type": "Cream Lending"
+      }
+    ],
     "name": "crBOND",
     "parent_asset": "BOND",
     "type": "lent",

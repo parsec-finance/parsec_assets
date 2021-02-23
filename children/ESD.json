@@ -73,7 +73,11 @@
       "0x3c6c553a95910f9fc81c98784736bd628636d296"
     ],
     "decimals": 8,
-    "modifiers": [],
+    "modifiers": [
+      {
+        "type": "Cream Lending"
+      }
+    ],
     "name": "crESD",
     "parent_asset": "ESD",
     "type": "lent",

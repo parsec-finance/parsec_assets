@@ -56,7 +56,11 @@
       "0x338286c0bc081891a4bda39c7667ae150bf5d206"
     ],
     "decimals": 8,
-    "modifiers": [],
+    "modifiers": [
+      {
+        "type": "Cream Lending"
+      }
+    ],
     "name": "crSUSHI",
     "parent_asset": "SUSHI",
     "type": "lent",
