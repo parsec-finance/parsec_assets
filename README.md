@@ -15,12 +15,12 @@ Example base asset:
     "balance_func": [
       	"balanceOf(address)",
       	[
-        	{
-          		"address": "$userAddress"
+            {
+          	    "address": "$userAddress"
         	}
       	],
       	[
-        	"uint256"
+            "uint256"
       	],
       	"0x4691937a7508860f876c9c0a2a617e7d9e945d4b"
     ],
