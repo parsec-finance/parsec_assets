@@ -8,8 +8,29 @@ Boilerplate for creating github compatible readme files
 
 ## Example
 
+Example base asset:
+
 ```text
-put example here
+{
+    "balance_func": [
+      	"balanceOf(address)",
+      	[
+        	{
+          		"address": "$userAddress"
+        	}
+      	],
+      	[
+        	"uint256"
+      	],
+      	"0x4691937a7508860f876c9c0a2a617e7d9e945d4b"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "WOO",
+    "type": "spot",
+    "value_index": 0
+}
 ```
 
 ## How to use
