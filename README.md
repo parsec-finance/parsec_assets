@@ -33,6 +33,31 @@ Example base asset:
 }
 ```
 
+Example child asset
+
+```code
+{
+    "balance_func": [
+      	"balanceOf(address)",
+      	[
+        	{
+          		"address": "$userAddress"
+        	}
+      	],
+      	[
+        	"uint256"
+      	],
+      	"0x9ff58f4ffb29fa2266ab25e75e2a8b3503311656"
+    ],
+    "decimals": 8,
+    "modifiers": [],
+    "name": "aWBTC V2",
+    "parent_asset": "wBTC",
+    "type": "lent",
+    "value_index": 0
+}
+```
+
 ## How to use
 
 * Coming soon
