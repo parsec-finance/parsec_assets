@@ -13,16 +13,16 @@ Example base asset:
 ```text
 {
     "balance_func": [
-      	"balanceOf(address)",
-      	[
+        "balanceOf(address)",
+        [
             {
-          	    "address": "$userAddress"
-        	}
-      	],
-      	[
+                "address": "$userAddress"
+            }
+        ],
+        [
             "uint256"
-      	],
-      	"0x4691937a7508860f876c9c0a2a617e7d9e945d4b"
+        ],
+        "0x4691937a7508860f876c9c0a2a617e7d9e945d4b"
     ],
     "decimals": 18,
     "modifiers": [],
@@ -38,16 +38,16 @@ Example child asset
 ```code
 {
     "balance_func": [
-      	"balanceOf(address)",
-      	[
-        	{
-          		"address": "$userAddress"
-        	}
-      	],
-      	[
-        	"uint256"
-      	],
-      	"0x9ff58f4ffb29fa2266ab25e75e2a8b3503311656"
+        "balanceOf(address)",
+        [
+            {
+                "address": "$userAddress"
+            }
+        ],
+        [
+            "uint256"
+        ],
+        "0x9ff58f4ffb29fa2266ab25e75e2a8b3503311656"
     ],
     "decimals": 8,
     "modifiers": [],
