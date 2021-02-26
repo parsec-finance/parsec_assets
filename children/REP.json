@@ -18,5 +18,29 @@
     "parent_asset": "REP",
     "type": "lent",
     "value_index": 0
+  },
+  {
+    "balance_func": [
+      "getUserReserveData(address,address)",
+      [
+        {
+          "address": "0x1985365e9f78359a9b6ad760e32412f4a445e862"
+        },
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256",
+        "uint256"
+      ],
+      "0x398eC7346DcD622eDc5ae82352F02bE94C62d119"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "name": "Aave Borrowed REP",
+    "parent_asset": "REP",
+    "type": "borrowed",
+    "value_index": 1
   }
 ]
