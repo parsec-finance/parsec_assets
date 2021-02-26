@@ -65,6 +65,26 @@
   },
   {
     "balance_func": [
+      "borrowBalanceCurrent(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0xf650c3d88d12db855b8bf7d11be6c55a4e07dcc9"
+    ],
+    "decimals": 6,
+    "modifiers": [],
+    "name": "Compound Borrowed USDT",
+    "parent_asset": "USDT",
+    "type": "borrowed",
+    "value_index": 0
+  },
+  {
+    "balance_func": [
       "balanceOf(address)",
       [
         {

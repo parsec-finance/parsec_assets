@@ -45,6 +45,26 @@
   },
   {
     "balance_func": [
+      "borrowBalanceCurrent(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x4ddc2d193948926d02f9b1fe9e1daa0718270ed5"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "name": "Compound Borrowed ETH",
+    "parent_asset": "ETH",
+    "type": "borrowed",
+    "value_index": 0
+  },
+  {
+    "balance_func": [
       "balanceOf(address)",
       [
         {

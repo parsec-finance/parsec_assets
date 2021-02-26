@@ -62,5 +62,25 @@
     "parent_asset": "wBTC",
     "type": "lent",
     "value_index": 0
+  },
+  {
+    "balance_func": [
+      "borrowBalanceCurrent(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0xc11b1268c1a384e55c48c2391d8d480264a3a7f4"
+    ],
+    "decimals": 8,
+    "modifiers": [],
+    "name": "Compound Borrowed wBTC",
+    "parent_asset": "wBTC",
+    "type": "borrowed",
+    "value_index": 0
   }
 ]
