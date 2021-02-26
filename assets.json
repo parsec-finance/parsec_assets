@@ -10,6 +10,46 @@
       [
         "uint256"
       ],
+      "0x31c8EAcBFFdD875c74b94b077895Bd78CF1E64A3"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "RAD",
+    "type": "spot",
+    "value_index": 0
+  },
+  {
+    "balance_func": [
+      "balanceOf(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x7f3edcdd180dbe4819bd98fee8929b5cedb3adeb"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "XTK",
+    "type": "spot",
+    "value_index": 0
+  },
+  {
+    "balance_func": [
+      "balanceOf(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
       "0x4691937a7508860f876c9c0a2a617e7d9e945d4b"
     ],
     "decimals": 18,
