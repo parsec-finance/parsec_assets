@@ -37,6 +37,7 @@
       "0x398eC7346DcD622eDc5ae82352F02bE94C62d119"
     ],
     "decimals": 18,
+    "modifiers": [],
     "name": "Aave Borrowed YFI",
     "parent_asset": "YFI",
     "type": "borrowed",
