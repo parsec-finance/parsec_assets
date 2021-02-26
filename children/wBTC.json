@@ -41,6 +41,30 @@
   },
   {
     "balance_func": [
+      "getUserReserveData(address,address)",
+      [
+        {
+          "address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599"
+        },
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256",
+        "uint256"
+      ],
+      "0x398eC7346DcD622eDc5ae82352F02bE94C62d119"
+    ],
+    "decimals": 8,
+    "modifiers": [],
+    "name": "Aave Borrowed wBTC",
+    "parent_asset": "wBTC",
+    "type": "borrowed",
+    "value_index": 1
+  },
+  {
+    "balance_func": [
       "balanceOf(address)",
       [
         {
