@@ -21,6 +21,30 @@
   },
   {
     "balance_func": [
+      "getUserReserveData(address,address)",
+      [
+        {
+          "address": "0x0000000000085d4780B73119b644AE5ecd22b376"
+        },
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256",
+        "uint256"
+      ],
+      "0x398eC7346DcD622eDc5ae82352F02bE94C62d119"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "name": "Aave Borrowed TUSD",
+    "parent_asset": "TUSD",
+    "type": "borrowed",
+    "value_index": 1
+  },
+  {
+    "balance_func": [
       "balanceOf(address)",
       [
         {

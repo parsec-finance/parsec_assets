@@ -21,6 +21,30 @@
   },
   {
     "balance_func": [
+      "getUserReserveData(address,address)",
+      [
+        {
+          "address": "0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f"
+        },
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256",
+        "uint256"
+      ],
+      "0x398eC7346DcD622eDc5ae82352F02bE94C62d119"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "name": "Aave Borrowed SNX",
+    "parent_asset": "SNX",
+    "type": "borrowed",
+    "value_index": 1
+  },
+  {
+    "balance_func": [
       "balanceOf(address)",
       [
         {

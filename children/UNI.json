@@ -41,6 +41,30 @@
   },
   {
     "balance_func": [
+      "getUserReserveData(address,address)",
+      [
+        {
+          "address": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984"
+        },
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256",
+        "uint256"
+      ],
+      "0x398eC7346DcD622eDc5ae82352F02bE94C62d119"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "name": "Aave Borrowed UNI",
+    "parent_asset": "UNI",
+    "type": "borrowed",
+    "value_index": 1
+  },
+  {
+    "balance_func": [
       "balanceOf(address)",
       [
         {
