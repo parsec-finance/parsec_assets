@@ -22,5 +22,25 @@
     "parent_asset": "CREAM",
     "type": "lent",
     "value_index": 0
+  },
+  {
+    "balance_func": [
+      "borrowBalanceCurrent(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x892b14321a4fcba80669ae30bd0cd99a7ecf6ac0"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "name": "Cream Borrowed CREAM",
+    "parent_asset": "CREAM",
+    "type": "borrowed",
+    "value_index": 0
   }
 ]

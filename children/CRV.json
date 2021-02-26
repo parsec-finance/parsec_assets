@@ -45,6 +45,26 @@
   },
   {
     "balance_func": [
+      "borrowBalanceCurrent(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0xc7fd8dcee4697ceef5a2fd4608a7bd6a94c77480"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "name": "Cream Borrowed CRV",
+    "parent_asset": "CRV",
+    "type": "borrowed",
+    "value_index": 0
+  },
+  {
+    "balance_func": [
       "balanceOf(address)",
       [
         {

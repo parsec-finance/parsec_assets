@@ -62,5 +62,25 @@
     "parent_asset": "BUSD",
     "type": "lent",
     "value_index": 0
+  },
+  {
+    "balance_func": [
+      "borrowBalanceCurrent(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x1ff8cdb51219a8838b52e9cac09b71e591bc998e"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "name": "Cream Borrowed BUSD",
+    "parent_asset": "BUSD",
+    "type": "borrowed",
+    "value_index": 0
   }
 ]

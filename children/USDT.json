@@ -106,5 +106,25 @@
     "parent_asset": "USDT",
     "type": "lent",
     "value_index": 0
+  },
+  {
+    "balance_func": [
+      "borrowBalanceCurrent(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x797aab1ce7c01eb727ab980762ba88e7133d2157"
+    ],
+    "decimals": 6,
+    "modifiers": [],
+    "name": "Cream Borrowed USDT",
+    "parent_asset": "USDT",
+    "type": "borrowed",
+    "value_index": 0
   }
 ]

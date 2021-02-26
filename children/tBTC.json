@@ -22,5 +22,25 @@
     "parent_asset": "tBTC",
     "type": "lent",
     "value_index": 0
+  },
+  {
+    "balance_func": [
+      "borrowBalanceCurrent(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0xf047d4be569fb770db143a6a90ef203fc1295922"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "name": "Cream Borrowed tBTC",
+    "parent_asset": "tBTC",
+    "type": "borrowed",
+    "value_index": 0
   }
 ]

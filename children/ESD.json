@@ -82,5 +82,25 @@
     "parent_asset": "ESD",
     "type": "lent",
     "value_index": 0
+  },
+  {
+    "balance_func": [
+      "borrowBalanceCurrent(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x3c6c553a95910f9fc81c98784736bd628636d296"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "name": "Cream Borrowed ESD",
+    "parent_asset": "ESD",
+    "type": "borrowed",
+    "value_index": 0
   }
 ]

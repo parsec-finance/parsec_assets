@@ -22,5 +22,25 @@
     "parent_asset": "SRM",
     "type": "lent",
     "value_index": 0
+  },
+  {
+    "balance_func": [
+      "borrowBalanceCurrent(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0xef58b2d5a1b8d3cde67b8ab054dc5c831e9bc025"
+    ],
+    "decimals": 6,
+    "modifiers": [],
+    "name": "Cream Borrowed SRM",
+    "parent_asset": "SRM",
+    "type": "borrowed",
+    "value_index": 0
   }
 ]
