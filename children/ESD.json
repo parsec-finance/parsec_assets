@@ -14,7 +14,7 @@
     ],
     "decimals": 18,
     "modifiers": [],
-    "name": "Harvest Staked",
+    "name": "Harvest Staked ESD",
     "parent_asset": "ESD",
     "type": "staked",
     "value_index": 0
@@ -34,7 +34,7 @@
     ],
     "decimals": 18,
     "modifiers": [],
-    "name": "Staged",
+    "name": "Staged ESD",
     "parent_asset": "ESD",
     "type": "staked",
     "value_index": 0
@@ -54,7 +54,7 @@
     ],
     "decimals": 18,
     "modifiers": [],
-    "name": "Bonded",
+    "name": "Bonded ESD",
     "parent_asset": "ESD",
     "type": "staked",
     "value_index": 0

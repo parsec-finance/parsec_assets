@@ -1,0 +1,25 @@
+[
+	{
+    "balance_func": [
+      "getStakeTotalDeposited(address,uint256)",
+      [
+        {
+            "address": "$userAddress"
+        },
+        {
+        	"uint256": 1
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0xab8e74017a8cc7c15ffccd726603790d26d7deca"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "name": "Staked ALCX",
+    "parent_asset": "ALCX",
+    "type": "staked",
+    "value_index": 0
+	}
+]
