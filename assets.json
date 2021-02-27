@@ -10,6 +10,26 @@
       [
         "uint256"
       ],
+      "0xdBdb4d16EdA451D0503b854CF79D55697F90c8DF"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "ALCX",
+    "type": "spot",
+    "value_index": 0
+  },
+  {
+    "balance_func": [
+      "balanceOf(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
       "0x31c8EAcBFFdD875c74b94b077895Bd78CF1E64A3"
     ],
     "decimals": 18,
