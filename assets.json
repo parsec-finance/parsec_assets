@@ -10,6 +10,27 @@
       [
         "uint256"
       ],
+      "0x126c121f99e1e211df2e5f8de2d96fa36647c855"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "DEGEN",
+    "type": "spot",
+    "value_index": 0
+  },
+
+  {
+    "balance_func": [
+      "balanceOf(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
       "0x1c9491865a1de77c5b6e19d2e6a5f1d7a6f2b25f"
     ],
     "decimals": 18,
