@@ -10,6 +10,26 @@
       [
         "uint256"
       ],
+      "0xD23Ac27148aF6A2f339BD82D0e3CFF380b5093de"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "SI",
+    "type": "spot",
+    "value_index": 0
+  },
+  {
+    "balance_func": [
+      "balanceOf(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
       "0x126c121f99e1e211df2e5f8de2d96fa36647c855"
     ],
     "decimals": 18,
@@ -19,7 +39,6 @@
     "type": "spot",
     "value_index": 0
   },
-
   {
     "balance_func": [
       "balanceOf(address)",
