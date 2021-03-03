@@ -42,5 +42,28 @@
     "parent_asset": "renBTC",
     "type": "borrowed",
     "value_index": 0
+  },
+  {
+    "balance_func": [
+      "underlyingBalance(address,address)",
+      [
+        {
+          "address": "0xeb4c2781e4eba804ce9a9803c67d0893436bb27d"
+        },
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x35fFd6E268610E764fF6944d07760D0EFe5E40E5"
+    ],
+    "decimals": 8,
+    "modifiers": [],
+    "name": "Keeper DAO kBitcoin",
+    "parent_asset": "renBTC",
+    "type": "staked",
+    "value_index": 0
   }
 ]
