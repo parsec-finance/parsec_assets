@@ -150,5 +150,28 @@
     "parent_asset": "DAI",
     "type": "borrowed",
     "value_index": 0
+  },
+  {
+    "balance_func": [
+      "underlyingBalance(address,address)",
+      [
+        {
+          "address": "0x6b175474e89094c44da98b954eedeac495271d0f"
+        },
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x6b175474e89094c44da98b954eedeac495271d0f"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "name": "Keeper DAO kDAI",
+    "parent_asset": "DAI",
+    "type": "staked",
+    "value_index"
   }
 ]
