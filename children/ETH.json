@@ -150,5 +150,51 @@
     "parent_asset": "ETH",
     "type": "borrowed",
     "value_index": 1
+  },
+  {
+    "balance_func": [
+      "underlyingBalance(address,address)",
+      [
+        {
+          "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"
+        },
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x35fFd6E268610E764fF6944d07760D0EFe5E40E5"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "name": "Keeper DAO kEther",
+    "parent_asset": "ETH",
+    "type": "staked",
+    "value_index": 0
+  },
+  {
+    "balance_func": [
+      "underlyingBalance(address,address)",
+      [
+        {
+          "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+        },
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x35fFd6E268610E764fF6944d07760D0EFe5E40E5"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "name": "Keeper DAO kwETH",
+    "parent_asset": "ETH",
+    "type": "staked",
+    "value_index": 0
   }
 ]

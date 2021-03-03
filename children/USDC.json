@@ -150,5 +150,28 @@
     "parent_asset": "USDC",
     "type": "borrowed",
     "value_index": 0
+  },
+  {
+    "balance_func": [
+      "underlyingBalance(address,address)",
+      [
+        {
+          "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
+        },
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x35fFd6E268610E764fF6944d07760D0EFe5E40E5"
+    ],
+    "decimals": 6,
+    "modifiers": [],
+    "name": "Keeper DAO kUSDCoin",
+    "parent_asset": "USDC",
+    "type": "staked",
+    "value_index": 0
   }
 ]
