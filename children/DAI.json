@@ -172,6 +172,6 @@
     "name": "Keeper DAO kDAI",
     "parent_asset": "DAI",
     "type": "staked",
-    "value_index"
+    "value_index": 0
   }
 ]
