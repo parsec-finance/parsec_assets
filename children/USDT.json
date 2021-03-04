@@ -74,6 +74,46 @@
       [
         "uint256"
       ],
+      "0xe91D55AB2240594855aBd11b3faAE801Fd4c4687"
+    ],
+    "decimals": 6,
+    "modifiers": [],
+    "name": "Stable Rate Aave V2 Borrowed USDT",
+    "parent_asset": "USDT",
+    "type": "borrowed",
+    "value_index": 0
+  },
+  {
+    "balance_func": [
+      "balanceOf(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x531842cEbbdD378f8ee36D171d6cC9C4fcf475Ec"
+    ],
+    "decimals": 6,
+    "modifiers": [],
+    "name": "Variable Rate Aave V2 Borrowed USDT",
+    "parent_asset": "USDT",
+    "type": "borrowed",
+    "value_index": 0
+  },
+  {
+    "balance_func": [
+      "balanceOf(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
       "0xf650c3d88d12db855b8bf7d11be6c55a4e07dcc9"
     ],
     "decimals": 8,
