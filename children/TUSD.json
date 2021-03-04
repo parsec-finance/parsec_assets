@@ -62,5 +62,45 @@
     "parent_asset": "TUSD",
     "type": "lent",
     "value_index": 0
+  },
+  {
+    "balance_func": [
+      "balanceOf(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x7f38d60D94652072b2C44a18c0e14A481EC3C0dd"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "name": "Stable Rate Aave V2 Borrowed TUSD",
+    "parent_asset": "TUSD",
+    "type": "borrowed",
+    "value_index": 0
+  },
+  {
+    "balance_func": [
+      "balanceOf(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x01C0eb1f8c6F1C1bF74ae028697ce7AA2a8b0E92"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "name": "Variable Rate Aave V2 Borrowed TUSD",
+    "parent_asset": "TUSD",
+    "type": "borrowed",
+    "value_index": 0
   }
 ]

@@ -62,5 +62,45 @@
     "parent_asset": "sUSD",
     "type": "lent",
     "value_index": 0
+  },
+  {
+    "balance_func": [
+      "balanceOf(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x30B0f7324feDF89d8eff397275F8983397eFe4af"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "name": "Stable Rate Aave V2 Borrowed sUSD",
+    "parent_asset": "sUSD",
+    "type": "borrowed",
+    "value_index": 0
+  },
+  {
+    "balance_func": [
+      "balanceOf(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0xdC6a3Ab17299D9C2A412B0e0a4C1f55446AE0817"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "name": "Variable Rate Aave V2 Borrowed sUSD",
+    "parent_asset": "sUSD",
+    "type": "borrowed",
+    "value_index": 0
   }
 ]
