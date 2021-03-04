@@ -10,6 +10,26 @@
       [
         "uint256"
       ],
+      "0x47C0aD2aE6c0Ed4bcf7bc5b380D7205E89436e84"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "name": "rHEGIC",
+    "parent_asset": "HEGIC",
+    "type": "spot",
+    "value_index": 0
+  },
+  {
+    "balance_func": [
+      "balanceOf(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
       "0x10a3da2bb0fae4d591476fd97d6636fd172923a8"
     ],
     "decimals": 8,
