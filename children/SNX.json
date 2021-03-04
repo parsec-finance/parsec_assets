@@ -62,5 +62,45 @@
     "parent_asset": "SNX",
     "type": "lent",
     "value_index": 0
+  },
+  {
+    "balance_func": [
+      "balanceOf(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x8575c8ae70bDB71606A53AeA1c6789cB0fBF3166"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "name": "Stable Rate Aave V2 Borrowed SNX",
+    "parent_asset": "SNX",
+    "type": "borrowed",
+    "value_index": 0
+  },
+  {
+    "balance_func": [
+      "balanceOf(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x267EB8Cf715455517F9BD5834AeAE3CeA1EBdbD8"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "name": "Variable Rate Aave V2 Borrowed SNX",
+    "parent_asset": "SNX",
+    "type": "borrowed",
+    "value_index": 0
   }
 ]
