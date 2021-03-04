@@ -62,5 +62,45 @@
     "parent_asset": "MANA",
     "type": "lent",
     "value_index": 0
+  },
+  {
+    "balance_func": [
+      "balanceOf(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0xD86C74eA2224f4B8591560652b50035E4e5c0a3b"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "name": "Stable Rate Aave V2 Borrowed MANA",
+    "parent_asset": "MANA",
+    "type": "borrowed",
+    "value_index": 0
+  },
+  {
+    "balance_func": [
+      "balanceOf(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x0A68976301e46Ca6Ce7410DB28883E309EA0D352"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "name": "Variable Rate Aave V2 Borrowed MANA",
+    "parent_asset": "MANA",
+    "type": "borrowed",
+    "value_index": 0
   }
 ]
