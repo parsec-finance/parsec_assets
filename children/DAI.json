@@ -74,6 +74,46 @@
       [
         "uint256"
       ],
+      "0x778A13D3eeb110A4f7bb6529F99c000119a08E92"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "name": "Stable Rate Aave V2 Borrowed DAI",
+    "parent_asset": "DAI",
+    "type": "borrowed",
+    "value_index": 0
+  },
+  {
+    "balance_func": [
+      "balanceOf(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x6C3c78838c761c6Ac7bE9F59fe808ea2A6E4379d"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "name": "Variable Rate Aave V2 Borrowed DAI",
+    "parent_asset": "DAI",
+    "type": "borrowed",
+    "value_index": 0
+  },
+  {
+    "balance_func": [
+      "balanceOf(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
       "0x5d3a536e4d6dbd6114cc1ead35777bab948e3643"
     ],
     "decimals": 8,

@@ -1,1 +1,62 @@
-[]
+[
+	{
+    "balance_func": [
+      "balanceOf(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0xD37EE7e4f452C6638c96536e68090De8cBcdb583"
+    ],
+    "decimals": 2,
+    "modifiers": [],
+    "name": "aGUSD V2",
+    "parent_asset": "GUSD",
+    "type": "lent",
+    "value_index": 0
+  },
+  {
+    "balance_func": [
+      "balanceOf(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0xf8aC64ec6Ff8E0028b37EB89772d21865321bCe0"
+    ],
+    "decimals": 2,
+    "modifiers": [],
+    "name": "Stable Rate Aave V2 Borrowed GUSD",
+    "parent_asset": "GUSD",
+    "type": "borrowed",
+    "value_index": 0
+  },
+  {
+    "balance_func": [
+      "balanceOf(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x279AF5b99540c1A3A7E3CDd326e19659401eF99e"
+    ],
+    "decimals": 2,
+    "modifiers": [],
+    "name": "Variable Rate Aave V2 Borrowed GUSD",
+    "parent_asset": "GUSD",
+    "type": "borrowed",
+    "value_index": 0
+  }
+]

@@ -62,5 +62,45 @@
     "parent_asset": "ENJ",
     "type": "lent",
     "value_index": 0
+  },
+  {
+    "balance_func": [
+      "balanceOf(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x943DcCA156b5312Aa24c1a08769D67FEce4ac14C"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "name": "Stable Rate Aave V2 Borrowed ENJ",
+    "parent_asset": "ENJ",
+    "type": "borrowed",
+    "value_index": 0
+  },
+  {
+    "balance_func": [
+      "balanceOf(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x38995F292a6E31b78203254fE1cdd5Ca1010A446"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "name": "Variable Rate Aave V2 Borrowed ENJ",
+    "parent_asset": "ENJ",
+    "type": "borrowed",
+    "value_index": 0
   }
 ]
