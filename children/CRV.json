@@ -30,6 +30,46 @@
       [
         "uint256"
       ],
+      "0x9288059a74f589C919c7Cf1Db433251CdFEB874B"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "name": "Stable Rate Aave V2 Borrowed CRV",
+    "parent_asset": "CRV",
+    "type": "borrowed",
+    "value_index": 0
+  },
+  {
+    "balance_func": [
+      "balanceOf(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x00ad8eBF64F141f1C81e9f8f792d3d1631c6c684"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "name": "Variable Rate Aave V2 Borrowed CRV",
+    "parent_asset": "CRV",
+    "type": "borrowed",
+    "value_index": 0
+  },
+  {
+    "balance_func": [
+      "balanceOf(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
       "0xc7fd8dcee4697ceef5a2fd4608a7bd6a94c77480"
     ],
     "decimals": 8,

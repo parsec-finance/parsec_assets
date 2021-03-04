@@ -74,6 +74,46 @@
       [
         "uint256"
       ],
+      "0x4A7A63909A72D268b1D8a93a9395d098688e0e5C"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "name": "Stable Rate Aave V2 Borrowed BUSD",
+    "parent_asset": "BUSD",
+    "type": "borrowed",
+    "value_index": 0
+  },
+  {
+    "balance_func": [
+      "balanceOf(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0xbA429f7011c9fa04cDd46a2Da24dc0FF0aC6099c"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "name": "Variable Rate Aave V2 Borrowed BUSD",
+    "parent_asset": "BUSD",
+    "type": "borrowed",
+    "value_index": 0
+  },
+  {
+    "balance_func": [
+      "balanceOf(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
       "0x1ff8cdb51219a8838b52e9cac09b71e591bc998e"
     ],
     "decimals": 8,

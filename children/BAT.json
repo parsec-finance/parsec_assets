@@ -74,6 +74,46 @@
       [
         "uint256"
       ],
+      "0x277f8676FAcf4dAA5a6EA38ba511B7F65AA02f9F"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "name": "Stable Rate Aave V2 Borrowed BAT",
+    "parent_asset": "BAT",
+    "type": "borrowed",
+    "value_index": 0
+  },
+  {
+    "balance_func": [
+      "balanceOf(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0xfc218A6Dfe6901CB34B1a5281FC6f1b8e7E56877"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "name": "Variable Rate Aave V2 Borrowed BAT",
+    "parent_asset": "BAT",
+    "type": "borrowed",
+    "value_index": 0
+  },
+  {
+    "balance_func": [
+      "balanceOf(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
       "0x6c8c6b02e7b2be14d4fa6022dfd6d75921d90e4e"
     ],
     "decimals": 8,
