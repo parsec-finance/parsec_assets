@@ -96,7 +96,7 @@
       ],
       "0x619beb58998eD2278e08620f97007e1116D5D25b"
     ],
-    "decimals": 18,
+    "decimals": 6,
     "modifiers": [],
     "name": "Variable Rate Aave V2 Borrowed USDC",
     "parent_asset": "USDC",
