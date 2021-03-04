@@ -74,6 +74,46 @@
       [
         "uint256"
       ],
+      "0xca823F78C2Dd38993284bb42Ba9b14152082F7BD"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "name": "Stable Rate Aave V2 Borrowed YFI",
+    "parent_asset": "YFI",
+    "type": "borrowed",
+    "value_index": 0
+  },
+  {
+    "balance_func": [
+      "balanceOf(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x7EbD09022Be45AD993BAA1CEc61166Fcc8644d97"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "name": "Variable Rate Aave V2 Borrowed YFI",
+    "parent_asset": "YFI",
+    "type": "borrowed",
+    "value_index": 0
+  },
+  {
+    "balance_func": [
+      "balanceOf(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
       "0xcbae0a83f4f9926997c8339545fb8ee32edc6b76"
     ],
     "decimals": 8,
