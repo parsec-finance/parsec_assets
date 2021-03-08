@@ -10,6 +10,46 @@
       [
         "uint256"
       ],
+      "0x7a5ce6abd131ea6b148a022cb76fc180ae3315a6"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "bALPHA",
+    "type": "spot",
+    "value_index": 0
+  },
+  {
+    "balance_func": [
+      "balanceOf(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0xf3dcbc6d72a4e1892f7917b7c43b74131df8480e"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "BDP",
+    "type": "spot",
+    "value_index": 0
+  },
+  {
+    "balance_func": [
+      "balanceOf(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
       "0x41d5d79431a913c4ae7d69a668ecdfe5ff9dfb68"
     ],
     "decimals": 18,
