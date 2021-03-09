@@ -10,6 +10,46 @@
       [
         "uint256"
       ],
+      "0xec58d3aefc9aaa2e0036fa65f70d569f49d9d1ed"
+    ],
+    "decimals": 6,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "uSTONKS-APR21",
+    "type": "spot",
+    "value_index": 0
+  },
+  {
+    "balance_func": [
+      "balanceOf(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x4e15361fd6b4bb609fa63c81a2be19d873717870"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "FTM",
+    "type": "spot",
+    "value_index": 0
+  },
+  {
+    "balance_func": [
+      "balanceOf(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
       "0x865377367054516e17014ccded1e7d814edc9ce4"
     ],
     "decimals": 18,
