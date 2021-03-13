@@ -1,5 +1,47 @@
 [
   {
+    
+    "balance_func": [
+      "balanceOf(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0xbbc2ae13b23d715c30720f079fcd9b4a74093505"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "ERN",
+    "type": "spot",
+    "value_index": 0
+  },
+  {
+    
+    "balance_func": [
+      "balanceOf(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0xb6ca7399b4f9ca56fc27cbff44f4d2e4eef1fc81"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "MUSE",
+    "type": "spot",
+    "value_index": 0
+  }, 
+  {
     "balance_func": [
       "balanceOf(address)",
       [
