@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "balance_func": [
+      "balanceOf(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0xaC14864ce5A98aF3248Ffbf549441b04421247D3"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "name": "Staked SDT",
+    "parent_asset": "SDT",
+    "type": "staked",
+    "value_index": 0
+  }
+]
