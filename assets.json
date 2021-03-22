@@ -10,6 +10,26 @@
       [
         "uint256"
       ],
+      "0x33d0568941c0c64ff7e0fb4fba0b11bd37deed9f"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "RAMP",
+    "type": "spot",
+    "value_index": 0
+  }
+  {
+    "balance_func": [
+      "balanceOf(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
       "0x888888435fde8e7d4c54cab67f206e4199454c60"
     ],
     "decimals": 18,
