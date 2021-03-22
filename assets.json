@@ -10,6 +10,106 @@
       [
         "uint256"
       ],
+      "0x33d0568941c0c64ff7e0fb4fba0b11bd37deed9f"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "RAMP",
+    "type": "spot",
+    "value_index": 0
+  }
+  {
+    "balance_func": [
+      "balanceOf(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x888888435fde8e7d4c54cab67f206e4199454c60"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "DFX",
+    "type": "spot",
+    "value_index": 0
+  },
+  {
+    "balance_func": [
+      "balanceOf(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x0ace32f6e87ac1457a5385f8eb0208f37263b415"
+    ],
+    "decimals": 10,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "HBT",
+    "type": "spot",
+    "value_index": 0
+  },
+  {
+    "balance_func": [
+      "balanceOf(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0xf938424f7210f31df2aee3011291b658f872e91e"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "VISR",
+    "type": "spot",
+    "value_index": 0
+  }, 
+  {
+    "balance_func": [
+      "balanceOf(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0xed30dd7e50edf3581ad970efc5d9379ce2614adb"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "ARCX",
+    "type": "spot",
+    "value_index": 0
+  },
+  {
+    "balance_func": [
+      "balanceOf(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
       "0xaa6e8127831c9de45ae56bb1b0d4d4da6e5665bd"
     ],
     "decimals": 18,
