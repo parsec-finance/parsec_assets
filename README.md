@@ -72,4 +72,4 @@ coming soon
 
 ## Support
 
-coming soon
+coming soon...
