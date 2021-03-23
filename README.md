@@ -68,7 +68,7 @@ If you have questions, feature requests or a bug you want to report, please clic
 
 ## Author
 
-coming soon
+coming soon...
 
 ## Support
 
