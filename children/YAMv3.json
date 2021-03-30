@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "balance_func": [
+      "balanceOf(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x673b95d277ef022e5efaf9f167ffdfab36991738"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "name": "Float Staked YAMv3",
+    "parent_asset": "YAMv3",
+    "type": "staked",
+    "value_index": 0
+  }
+]

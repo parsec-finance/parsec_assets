@@ -24,7 +24,9 @@
               "address": "0x8798249c2e607446efb7ad49ec89dd1865ff4272"
             }
           ],
-          ["uint256"],
+          [
+            "uint256"
+          ],
           "0x6b3595068778dd592e39a122f4f5a5cf09c90fe2"
         ],
         "value_index": 0
@@ -35,7 +37,9 @@
         "func": [
           "totalSupply()",
           [],
-          ["uint256"],
+          [
+            "uint256"
+          ],
           "0x8798249c2e607446efb7ad49ec89dd1865ff4272"
         ],
         "value_index": 0
@@ -115,7 +119,9 @@
               "address": "0x8798249c2e607446efb7ad49ec89dd1865ff4272"
             }
           ],
-          ["uint256"],
+          [
+            "uint256"
+          ],
           "0x6b3595068778dd592e39a122f4f5a5cf09c90fe2"
         ],
         "value_index": 0
@@ -126,7 +132,9 @@
         "func": [
           "totalSupply()",
           [],
-          ["uint256"],
+          [
+            "uint256"
+          ],
           "0x8798249c2e607446efb7ad49ec89dd1865ff4272"
         ],
         "value_index": 0
@@ -162,7 +170,9 @@
               "address": "0x8798249c2e607446efb7ad49ec89dd1865ff4272"
             }
           ],
-          ["uint256"],
+          [
+            "uint256"
+          ],
           "0x6b3595068778dd592e39a122f4f5a5cf09c90fe2"
         ],
         "value_index": 0
@@ -173,7 +183,9 @@
         "func": [
           "totalSupply()",
           [],
-          ["uint256"],
+          [
+            "uint256"
+          ],
           "0x8798249c2e607446efb7ad49ec89dd1865ff4272"
         ],
         "value_index": 0
@@ -182,6 +194,26 @@
     "name": "Variable Rate Aave V2 Borrowed xSUSHI",
     "parent_asset": "SUSHI",
     "type": "borrowed",
+    "value_index": 0
+  },
+  {
+    "balance_func": [
+      "balanceOf(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0xA9e43Ae740A19ddd7Aa04efa4198b32344F4c0f2"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "name": "Float Phase 2 Staked SUSHI",
+    "parent_asset": "SUSHI",
+    "type": "staked",
     "value_index": 0
   }
 ]
