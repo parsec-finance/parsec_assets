@@ -213,5 +213,25 @@
     "parent_asset": "USDC",
     "type": "staked",
     "value_index": 0
+  },
+  {
+    "balance_func": [
+      "balanceOf(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0xeD7df34c629F46de7C31069C7816dD6D8654DD17"
+    ],
+    "decimals": 6,
+    "modifiers": [],
+    "name": "Float Phase 2 Staked USDC",
+    "parent_asset": "USDC",
+    "type": "staked",
+    "value_index": 0
   }
 ]

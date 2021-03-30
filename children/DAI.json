@@ -213,5 +213,25 @@
     "parent_asset": "DAI",
     "type": "staked",
     "value_index": 0
+  },
+  {
+    "balance_func": [
+      "balanceOf(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0xAB768db196514DF35722A99c37C8ae3581d6352B"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "name": "Float Phase 2 Staked DAI",
+    "parent_asset": "DAI",
+    "type": "staked",
+    "value_index": 0
   }
 ]
