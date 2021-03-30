@@ -60,7 +60,7 @@ Example child asset
 
 ## How to use
 
-* Coming soon
+* Open PRs and we will review and merge!
 
 ## Bugs
 
