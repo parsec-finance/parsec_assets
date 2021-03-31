@@ -61,6 +61,7 @@ Example child asset
 ## How to use
 
 * Open PRs and we will review and merge!
+* Locations for staking especially
 
 ## Bugs
 
