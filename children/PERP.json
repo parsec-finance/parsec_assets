@@ -1,1 +1,22 @@
-[]
+[
+	{
+    "balance_func": [
+      "balanceOf(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x0f346e19F01471C02485DF1758cfd3d624E399B4"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "name": "Staked PERP",
+    "parent_asset": "PERP",
+    "type": "staked",
+    "value_index": 0
+  }
+]
