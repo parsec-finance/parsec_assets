@@ -10,6 +10,46 @@
       [
         "uint256"
       ],
+      "0x956f47f50a910163d8bf957cf5846d573e7f87ca"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "FEI",
+    "type": "spot",
+    "value_index": 0
+  },
+  {
+    "balance_func": [
+      "balanceOf(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0xc7283b66eb1eb5fb86327f08e1b5816b0720212b"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "TRIBE",
+    "type": "spot",
+    "value_index": 0
+  },
+  {
+    "balance_func": [
+      "balanceOf(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
       "0x7dd9c5cba05e151c895fde1cf355c9a1d5da6429"
     ],
     "decimals": 18,
