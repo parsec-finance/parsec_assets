@@ -10,6 +10,46 @@
       [
         "uint256"
       ],
+      "0x6dea81c8171d0ba574754ef6f8b412f2ed88c54d"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "LQTY",
+    "type": "spot",
+    "value_index": 0
+  },
+  {
+    "balance_func": [
+      "balanceOf(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x5f98805a4e8be255a32880fdec7f6728c6568ba0"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "LUSD",
+    "type": "spot",
+    "value_index": 0
+  },
+  {
+    "balance_func": [
+      "balanceOf(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
       "0x956f47f50a910163d8bf957cf5846d573e7f87ca"
     ],
     "decimals": 18,
