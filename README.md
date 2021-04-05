@@ -62,7 +62,7 @@ Example child asset
 
 * Open PRs and we will review and merge!
 * Locations for staking especially
-* LPs coming soon...
+* LPs ready for children! Use same format as other assets.
 
 ## Bugs
 
