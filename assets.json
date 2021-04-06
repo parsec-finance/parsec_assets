@@ -2017,7 +2017,47 @@
     "decimals": 18,
     "modifiers": [],
     "parent": null,
+    "symbol": "OCEAN (old)",
+    "type": "spot",
+    "value_index": 0
+  },
+  {
+    "balance_func": [
+      "balanceOf(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
     "symbol": "OCEAN",
+    "type": "spot",
+    "value_index": 0
+  },
+  {
+    "balance_func": [
+      "balanceOf(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x99295f1141d58a99e939f7be6bbe734916a875b8"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "LPL",
     "type": "spot",
     "value_index": 0
   },
