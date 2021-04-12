@@ -4,7 +4,9 @@
       "userInfo(uint256,address)",
       [
         {
-          "uint256": 0,
+          "uint256": 0
+        },
+        {
           "address": "$userAddress"
         }
       ],
