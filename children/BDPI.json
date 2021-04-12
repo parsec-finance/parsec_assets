@@ -1,23 +1,23 @@
 [
-	{
-		"balance_func": [
-			"userInfo(uint256,address)",
-			[
-				{
-					"uint256": 0,
-					"address": "$userAddress"
-				}
-			],
-			[
-				"uint256"
-			],
-			"0xdb9daa0a50b33e4fe9d0ac16a1df1d335f96595e"
-		],
-		"decimals": 18,
+  {
+    "balance_func": [
+      "userInfo(uint256,address)",
+      [
+        {
+          "uint256": 0,
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0xdb9daa0a50b33e4fe9d0ac16a1df1d335f96595e"
+    ],
+    "decimals": 18,
     "modifiers": [],
     "name": "Staked BDPI",
     "parent_asset": "BDPI",
     "type": "staked",
     "value_index": 0
-	}
+  }
 ]
