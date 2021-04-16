@@ -1,0 +1,22 @@
+[
+  {
+    "balance_func": [
+      "balanceOf(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x5c0e75eb4b27b5f9c99d78fc96aff7869eda007b"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "name": "xBASK",
+    "parent_asset": "BASK",
+    "type": "staked",
+    "value_index": 0
+  }
+]
