@@ -122,6 +122,30 @@
         "type": "Compound Lending"
       }
     ],
+    "name": "cWBTC - Legacy",
+    "parent_asset": "wBTC",
+    "type": "lent",
+    "value_index": 0
+  },
+  {
+    "balance_func": [
+      "balanceOf(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0xccf4429db6322d5c611ee964527d42e5d685dd6a"
+    ],
+    "decimals": 8,
+    "modifiers": [
+      {
+        "type": "Compound Lending"
+      }
+    ],
     "name": "cWBTC",
     "parent_asset": "wBTC",
     "type": "lent",
