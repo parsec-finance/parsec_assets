@@ -10,6 +10,26 @@
       [
         "uint256"
       ],
+      "0x77fba179c79de5b7653f68b5039af940ada60ce0"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "FORTH",
+    "type": "spot",
+    "value_index": 0
+  },
+  {
+    "balance_func": [
+      "balanceOf(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
       "0x72e364f2abdc788b7e918bc238b21f109cd634d7"
     ],
     "decimals": 18,
