@@ -1,0 +1,22 @@
+[
+  {
+    "balance_func": [
+      "getCompoundedLUSDDeposit(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x66017d22b0f8556afdd19fc67041899eb65a21bb"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "name": "Staked LUSD",
+    "parent_asset": "LUSD",
+    "type": "staked",
+    "value_index": 0
+  }
+]
