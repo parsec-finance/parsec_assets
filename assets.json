@@ -2992,6 +2992,26 @@
       [
         "uint256"
       ],
+      "0x33349b282065b0284d756f0577fb39c158f935e6"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "MPL",
+    "type": "spot",
+    "value_index": 0
+  },
+  {
+    "balance_func": [
+      "balanceOf(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
       "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984"
     ],
     "decimals": 18,
