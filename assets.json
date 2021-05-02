@@ -10,6 +10,26 @@
       [
         "uint256"
       ],
+      "0xf65b5c5104c4fafd4b709d9d60a185eae063276c"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "TRU",
+    "type": "spot",
+    "value_index": 0
+  },
+  { 
+    "balance_func": [
+      "balanceOf(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
       "0xbbbbbbb5aa847a2003fbc6b5c16df0bd1e725f61"
     ],
     "decimals": 18,
