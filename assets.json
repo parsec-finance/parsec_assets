@@ -10,6 +10,26 @@
       [
         "uint256"
       ],
+      "0x4e3fbd56cd56c3e72c1403e103b45db9da5b9d2b"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "CVX",
+    "type": "spot",
+    "value_index": 0
+  },
+  {
+    "balance_func": [
+      "balanceOf(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
       "0xde30da39c46104798bb5aa3fe8b9e0e1f348163f"
     ],
     "decimals": 18,
