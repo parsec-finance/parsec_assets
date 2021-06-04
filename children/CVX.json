@@ -1,0 +1,22 @@
+[
+	{
+    "balance_func": [
+      "balanceOf(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0xcf50b810e57ac33b91dcf525c6ddd9881b139332"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "name": "Staked CVX",
+    "parent_asset": "CVX",
+    "type": "staked",
+    "value_index": 0
+	}
+]

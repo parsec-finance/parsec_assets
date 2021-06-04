@@ -1,0 +1,22 @@
+[
+	{
+    "balance_func": [
+      "balanceOf(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
+      "0x3bdb2d1003221cfc688cfbfb10433d37c0fe2c3e"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "name": "Staked BANK Phase4a",
+    "parent_asset": "BANK",
+    "type": "staked",
+    "value_index": 0
+  }
+]
