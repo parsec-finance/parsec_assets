@@ -10,6 +10,26 @@
       [
         "uint256"
       ],
+      "0xd417144312dbf50465b1c641d016962017ef6240"
+    ],
+    "decimals": 18,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "CQT",
+    "type": "spot",
+    "value_index": 0
+  },
+  {
+    "balance_func": [
+      "balanceOf(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
       "0x6f40d4a6237c257fff2db00fa0510deeecd303eb"
     ],
     "decimals": 18,
