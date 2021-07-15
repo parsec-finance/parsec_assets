@@ -10,6 +10,26 @@
       [
         "uint256"
       ],
+      "0xcc8fa225d80b9c7d42f96e9570156c65d6caaa25"
+    ],
+    "decimals": 0,
+    "modifiers": [],
+    "parent": null,
+    "symbol": "SLP",
+    "type": "spot",
+    "value_index": 0
+  }
+  {
+    "balance_func": [
+      "balanceOf(address)",
+      [
+        {
+          "address": "$userAddress"
+        }
+      ],
+      [
+        "uint256"
+      ],
       "0xc770eefad204b5180df6a14ee197d99d808ee52d"
     ],
     "decimals": 18,
@@ -4197,7 +4217,7 @@
     "decimals": 0,
     "modifiers": [],
     "parent": null,
-    "symbol": "SLP",
+    "symbol": "SLP-legacy-0",
     "type": "spot",
     "value_index": 0
   },
