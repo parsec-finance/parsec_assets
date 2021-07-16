@@ -21,7 +21,8 @@
     "name": "crTBTC",
     "parent_asset": "tBTC",
     "type": "lent",
-    "value_index": 0
+    "value_index": 0,
+    "protocol": "Cream"
   },
   {
     "balance_func": [
@@ -41,6 +42,7 @@
     "name": "Cream Borrowed tBTC",
     "parent_asset": "tBTC",
     "type": "borrowed",
-    "value_index": 0
+    "value_index": 0,
+    "protocol": "Cream"
   }
 ]

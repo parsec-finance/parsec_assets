@@ -20,6 +20,7 @@
     "name": "Staked ALCX",
     "parent_asset": "ALCX",
     "type": "staked",
-    "value_index": 0
+    "value_index": 0,
+    "protocol": "Alchemix"
 	}
 ]

@@ -17,6 +17,7 @@
     "name": "Alchemix Borrowed alUSD",
     "parent_asset": "alUSD",
     "type": "borrowed",
-    "value_index": 0
+    "value_index": 0,
+    "protocol": "Alchemix"
 	}
 ]

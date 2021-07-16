@@ -17,7 +17,8 @@
     "name": "aGUSD V2",
     "parent_asset": "GUSD",
     "type": "lent",
-    "value_index": 0
+    "value_index": 0,
+    "protocol": "Aave"
   },
   {
     "balance_func": [
@@ -37,7 +38,8 @@
     "name": "Stable Rate Aave V2 Borrowed GUSD",
     "parent_asset": "GUSD",
     "type": "borrowed",
-    "value_index": 0
+    "value_index": 0,
+    "protocol": "Aave"
   },
   {
     "balance_func": [
@@ -57,6 +59,7 @@
     "name": "Variable Rate Aave V2 Borrowed GUSD",
     "parent_asset": "GUSD",
     "type": "borrowed",
-    "value_index": 0
+    "value_index": 0,
+    "protocol": "Aave"
   }
 ]

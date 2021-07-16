@@ -34,7 +34,8 @@
     "name": "Staked bBADGER",
     "parent_asset": "BADGER",
     "type": "staked",
-    "value_index": 0
+    "value_index": 0,
+    "protocol": "Badger"
   },
   {
     "balance_func": [
@@ -54,6 +55,7 @@
     "name": "bBADGER",
     "parent_asset": "BADGER",
     "type": "staked",
-    "value_index": 0
+    "value_index": 0,
+    "protocol": "Badger"
   }
 ]

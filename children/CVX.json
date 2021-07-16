@@ -17,6 +17,7 @@
     "name": "Staked CVX",
     "parent_asset": "CVX",
     "type": "staked",
-    "value_index": 0
+    "value_index": 0,
+    "protocol": "Convex"
 	}
 ]

@@ -17,6 +17,7 @@
     "name": "Staked DOKI",
     "parent_asset": "DOKI",
     "type": "staked",
-    "value_index": 0
+    "value_index": 0,
+    "protocol": "Doki"
   }
 ]

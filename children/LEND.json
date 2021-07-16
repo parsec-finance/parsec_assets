@@ -17,7 +17,8 @@
     "name": "aLEND",
     "parent_asset": "LEND",
     "type": "lent",
-    "value_index": 0
+    "value_index": 0,
+    "protocol": "Aave"
   },
   {
     "balance_func": [
@@ -41,7 +42,8 @@
     "name": "Aave Borrowed LEND",
     "parent_asset": "LEND",
     "type": "borrowed",
-    "value_index": 1
+    "value_index": 1,
+    "protocol": "Aave"
   },
   {
     "balance_func": [
@@ -65,7 +67,8 @@
     "name": "crLEND",
     "parent_asset": "LEND",
     "type": "lent",
-    "value_index": 0
+    "value_index": 0,
+    "protocol": "Cream"
   },
   {
     "balance_func": [
@@ -85,6 +88,7 @@
     "name": "Cream Borrowed LEND",
     "parent_asset": "LEND",
     "type": "borrowed",
-    "value_index": 0
+    "value_index": 0,
+    "protocol": "Cream"
   }
 ]

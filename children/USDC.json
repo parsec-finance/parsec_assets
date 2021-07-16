@@ -17,7 +17,8 @@
     "name": "aUSDC",
     "parent_asset": "USDC",
     "type": "lent",
-    "value_index": 0
+    "value_index": 0,
+    "protocol": "Aave"
   },
   {
     "balance_func": [
@@ -41,7 +42,8 @@
     "name": "Aave Borrowed USDC",
     "parent_asset": "USDC",
     "type": "borrowed",
-    "value_index": 1
+    "value_index": 1,
+    "protocol": "Aave"
   },
   {
     "balance_func": [
@@ -61,7 +63,8 @@
     "name": "aUSDC V2",
     "parent_asset": "USDC",
     "type": "lent",
-    "value_index": 0
+    "value_index": 0,
+    "protocol": "Aave"
   },
   {
     "balance_func": [
@@ -81,7 +84,8 @@
     "name": "Stable Rate Aave V2 Borrowed USDC",
     "parent_asset": "USDC",
     "type": "borrowed",
-    "value_index": 0
+    "value_index": 0,
+    "protocol": "Aave"
   },
   {
     "balance_func": [
@@ -101,7 +105,8 @@
     "name": "Variable Rate Aave V2 Borrowed USDC",
     "parent_asset": "USDC",
     "type": "borrowed",
-    "value_index": 0
+    "value_index": 0,
+    "protocol": "Aave"
   },
   {
     "balance_func": [
@@ -125,7 +130,8 @@
     "name": "cUSDC",
     "parent_asset": "USDC",
     "type": "lent",
-    "value_index": 0
+    "value_index": 0,
+    "protocol": "Compound"
   },
   {
     "balance_func": [
@@ -145,7 +151,8 @@
     "name": "Compound Borrowed USDC",
     "parent_asset": "USDC",
     "type": "borrowed",
-    "value_index": 0
+    "value_index": 0,
+    "protocol": "Compound"
   },
   {
     "balance_func": [
@@ -169,7 +176,8 @@
     "name": "crUSDC",
     "parent_asset": "USDC",
     "type": "lent",
-    "value_index": 0
+    "value_index": 0,
+    "protocol": "Cream"
   },
   {
     "balance_func": [
@@ -189,7 +197,8 @@
     "name": "Cream Borrowed USDC",
     "parent_asset": "USDC",
     "type": "borrowed",
-    "value_index": 0
+    "value_index": 0,
+    "protocol": "Cream"
   },
   {
     "balance_func": [
@@ -212,7 +221,8 @@
     "name": "Keeper DAO kUSDCoin",
     "parent_asset": "USDC",
     "type": "staked",
-    "value_index": 0
+    "value_index": 0,
+    "protocol": "Keeper DAO"
   },
   {
     "balance_func": [
@@ -232,6 +242,7 @@
     "name": "Float Phase 2 Staked USDC",
     "parent_asset": "USDC",
     "type": "staked",
-    "value_index": 0
+    "value_index": 0,
+    "protocol": "Float Protocol"
   }
 ]

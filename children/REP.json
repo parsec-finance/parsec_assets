@@ -17,7 +17,8 @@
     "name": "aREP",
     "parent_asset": "REP",
     "type": "lent",
-    "value_index": 0
+    "value_index": 0,
+    "protocol": "Aave"
   },
   {
     "balance_func": [
@@ -41,6 +42,7 @@
     "name": "Aave Borrowed REP",
     "parent_asset": "REP",
     "type": "borrowed",
-    "value_index": 1
+    "value_index": 1,
+    "protocol": "Aave"
   }
 ]

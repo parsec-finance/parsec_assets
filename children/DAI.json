@@ -17,7 +17,8 @@
     "name": "aDAI",
     "parent_asset": "DAI",
     "type": "lent",
-    "value_index": 0
+    "value_index": 0,
+    "protocol": "Aave"
   },
   {
     "balance_func": [
@@ -41,7 +42,8 @@
     "name": "Aave Borrowed DAI",
     "parent_asset": "DAI",
     "type": "borrowed",
-    "value_index": 1
+    "value_index": 1,
+    "protocol": "Aave"
   },
   {
     "balance_func": [
@@ -61,7 +63,8 @@
     "name": "aDAI V2",
     "parent_asset": "DAI",
     "type": "lent",
-    "value_index": 0
+    "value_index": 0,
+    "protocol": "Aave"
   },
   {
     "balance_func": [
@@ -81,7 +84,8 @@
     "name": "Stable Rate Aave V2 Borrowed DAI",
     "parent_asset": "DAI",
     "type": "borrowed",
-    "value_index": 0
+    "value_index": 0,
+    "protocol": "Aave"
   },
   {
     "balance_func": [
@@ -101,7 +105,8 @@
     "name": "Variable Rate Aave V2 Borrowed DAI",
     "parent_asset": "DAI",
     "type": "borrowed",
-    "value_index": 0
+    "value_index": 0,
+    "protocol": "Aave"
   },
   {
     "balance_func": [
@@ -125,7 +130,8 @@
     "name": "cDAI",
     "parent_asset": "DAI",
     "type": "lent",
-    "value_index": 0
+    "value_index": 0,
+    "protocol": "Compound"
   },
   {
     "balance_func": [
@@ -145,7 +151,8 @@
     "name": "Compound Borrowed DAI",
     "parent_asset": "DAI",
     "type": "borrowed",
-    "value_index": 0
+    "value_index": 0,
+    "protocol": "Compound"
   },
   {
     "balance_func": [
@@ -169,7 +176,8 @@
     "name": "crDAI",
     "parent_asset": "DAI",
     "type": "lent",
-    "value_index": 0
+    "value_index": 0,
+    "protocol": "Cream"
   },
   {
     "balance_func": [
@@ -189,7 +197,8 @@
     "name": "Cream Borrowed DAI",
     "parent_asset": "DAI",
     "type": "borrowed",
-    "value_index": 0
+    "value_index": 0,
+    "protocol": "Cream"
   },
   {
     "balance_func": [
@@ -212,7 +221,8 @@
     "name": "Keeper DAO kDAI",
     "parent_asset": "DAI",
     "type": "staked",
-    "value_index": 0
+    "value_index": 0,
+    "protocol": "Keeper DAO"
   },
   {
     "balance_func": [
@@ -232,7 +242,8 @@
     "name": "Float Phase 2 Staked DAI",
     "parent_asset": "DAI",
     "type": "staked",
-    "value_index": 0
+    "value_index": 0,
+    "protocol": "Float Protocol"
   },
   {
     "balance_func": [
@@ -252,6 +263,7 @@
     "name": "Alchemix Deposited DAI",
     "parent_asset": "DAI",
     "type": "lent",
-    "value_index": 0
+    "value_index": 0,
+    "protocol": "Alchemix"
   }
 ]

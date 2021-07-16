@@ -17,7 +17,8 @@
     "name": "aLINK",
     "parent_asset": "LINK",
     "type": "lent",
-    "value_index": 0
+    "value_index": 0,
+    "protocol": "Aave"
   },
   {
     "balance_func": [
@@ -41,7 +42,8 @@
     "name": "Aave Borrowed LINK",
     "parent_asset": "LINK",
     "type": "borrowed",
-    "value_index": 1
+    "value_index": 1,
+    "protocol": "Aave"
   },
   {
     "balance_func": [
@@ -61,7 +63,8 @@
     "name": "aLINK V2",
     "parent_asset": "LINK",
     "type": "lent",
-    "value_index": 0
+    "value_index": 0,
+    "protocol": "Aave"
   },
   {
     "balance_func": [
@@ -81,7 +84,8 @@
     "name": "Stable Rate Aave V2 Borrowed LINK",
     "parent_asset": "LINK",
     "type": "borrowed",
-    "value_index": 0
+    "value_index": 0,
+    "protocol": "Aave"
   },
   {
     "balance_func": [
@@ -101,7 +105,8 @@
     "name": "Variable Rate Aave V2 Borrowed LINK",
     "parent_asset": "LINK",
     "type": "borrowed",
-    "value_index": 0
+    "value_index": 0,
+    "protocol": "Aave"
   },
   {
     "balance_func": [
@@ -125,7 +130,8 @@
     "name": "crLINK",
     "parent_asset": "LINK",
     "type": "lent",
-    "value_index": 0
+    "value_index": 0,
+    "protocol": "Cream"
   },
   {
     "balance_func": [
@@ -145,6 +151,7 @@
     "name": "Cream Borrowed LINK",
     "parent_asset": "LINK",
     "type": "borrowed",
-    "value_index": 0
+    "value_index": 0,
+    "protocol": "Cream"
   }
 ]

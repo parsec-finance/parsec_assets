@@ -21,7 +21,8 @@
     "name": "crHBTC",
     "parent_asset": "HBTC",
     "type": "lent",
-    "value_index": 0
+    "value_index": 0,
+    "protocol": "Cream"
   },
   {
     "balance_func": [
@@ -41,6 +42,7 @@
     "name": "Cream Borrowed HBTC",
     "parent_asset": "HBTC",
     "type": "borrowed",
-    "value_index": 0
+    "value_index": 0,
+    "protocol": "Cream"
   }
 ]
